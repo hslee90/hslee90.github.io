@@ -29,22 +29,23 @@ Feel free to reach out to me via email, Twitter, or check out my Google Scholar 
 <div style="text-align: center; font-size: 2rem; color: #002F6C;">
 
   <a href="mailto:hslee90@kaist.ac.kr" style="margin: 0 15px;" aria-label="Email">
-    <i class="fa-solid fa-envelope"></i>
+    <i class="fas fa-envelope"></i>
   </a>
 
   <a href="https://twitter.com/hyunsoo820" style="margin: 0 15px;" aria-label="Twitter">
-    <i class="fa-brands fa-twitter"></i>
+    <i class="fab fa-twitter"></i>
   </a>
 
   <a href="https://scholar.google.com/citations?user=ctglUjoAAAAJ&hl=en" style="margin: 0 15px;" aria-label="Google Scholar">
-    <i class="fa-brands fa-google"></i>
+    <i class="fab fa-google"></i>
   </a>
 
   <a href="{{ site.author.cv }}" style="margin: 0 15px;" aria-label="CV">
-    <i class="fa-solid fa-file-pdf"></i>
+    <i class="fas fa-file-pdf"></i>
   </a>
 
 </div>
+
 
 ---
 
