@@ -30,22 +30,24 @@ I'm a postdoctoral researcher specializing in **Human-Computer Interaction (HCI)
 
 Feel free to reach out to me via email, Twitter, or check out my Google Scholar profile:
 
-<div style="text-align: center; font-size: 2.5rem; color: #001f5b; margin: 20px 0;">
-  <a href="mailto:your_email@example.com" style="margin: 0 10px; color: #001f5b;" target="_blank">
+<div style="text-align: center; font-size: 2rem; color: #002F6C;">
+
+  <a href="mailto:{{ site.author.email }}" style="margin: 0 15px;" aria-label="Email">
     <i class="fa-solid fa-envelope"></i>
   </a>
-  <a href="https://twitter.com/yourusername" style="margin: 0 10px; color: #001f5b;" target="_blank">
+
+  <a href="https://twitter.com/{{ site.author.twitter }}" style="margin: 0 15px;" aria-label="Twitter">
     <i class="fa-brands fa-twitter"></i>
   </a>
-  <a href="https://scholar.google.com/citations?user=your_google_scholar_id" style="margin: 0 10px; color: #001f5b;" target="_blank">
+
+  <a href="https://scholar.google.com/citations?user={{ site.author.scholar }}" style="margin: 0 15px;" aria-label="Google Scholar">
     <i class="fa-brands fa-google"></i>
   </a>
-  <a href="https://github.com/yourusername" style="margin: 0 10px; color: #001f5b;" target="_blank">
-    <i class="fa-brands fa-github"></i>
+
+  <a href="{{ site.author.cv }}" style="margin: 0 15px;" aria-label="CV">
+    <i class="fa-solid fa-file-pdf"></i>
   </a>
-  <a href="./assets/cv/Hyunsoo_Lee_CV.pdf" style="margin: 0 10px; color: #001f5b;" target="_blank">
-    <i class="fa-solid fa-file-lines"></i>
-  </a>
+
 </div>
 ---
 
