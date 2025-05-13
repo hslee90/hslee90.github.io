@@ -30,21 +30,23 @@ I'm a postdoctoral researcher specializing in **Human-Computer Interaction (HCI)
 
 Feel free to reach out to me via email, Twitter, or check out my Google Scholar profile:
 
-<div style="text-align: center;">
-  <a href="mailto:your_email@example.com" style="margin-right: 10px;">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email">
+<div style="text-align: center; font-size: 2.5rem; color: #001f5b; margin: 20px 0;">
+  <a href="mailto:your_email@example.com" style="margin: 0 10px; color: #001f5b;" target="_blank">
+    <i class="fa-solid fa-envelope"></i>
   </a>
-  <a href="https://twitter.com/yourusername" style="margin-right: 10px;">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter">
+  <a href="https://twitter.com/yourusername" style="margin: 0 10px; color: #001f5b;" target="_blank">
+    <i class="fa-brands fa-twitter"></i>
   </a>
-  <a href="https://scholar.google.com/citations?user=your_google_scholar_id" style="margin-right: 10px;">
-    <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat-square&logo=google-scholar&logoColor=white" alt="Google Scholar">
+  <a href="https://scholar.google.com/citations?user=your_google_scholar_id" style="margin: 0 10px; color: #001f5b;" target="_blank">
+    <i class="fa-brands fa-google"></i>
   </a>
-  <a href="./assets/cv/Hyunsoo_Lee_CV.pdf">
-    <img src="https://img.shields.io/badge/CV-PDF-red?style=flat-square&logo=adobeacrobatreader&logoColor=white" alt="CV">
+  <a href="https://github.com/yourusername" style="margin: 0 10px; color: #001f5b;" target="_blank">
+    <i class="fa-brands fa-github"></i>
+  </a>
+  <a href="./assets/cv/Hyunsoo_Lee_CV.pdf" style="margin: 0 10px; color: #001f5b;" target="_blank">
+    <i class="fa-solid fa-file-lines"></i>
   </a>
 </div>
-
 ---
 
 ## 📚 Publications
