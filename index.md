@@ -32,16 +32,16 @@ Feel free to reach out to me via email, Twitter, or check out my Google Scholar 
 
 <div style="text-align: center;">
   <a href="mailto:your_email@example.com" style="margin-right: 15px;">
-    <img src="https://img.shields.io/badge/Email-0077B5?logo=gmail&logoColor=white" alt="Email" style="height: 40px;">
+    <i class="fa fa-envelope" style="font-size: 40px; color: #0077B5;"></i>
   </a>
   <a href="https://twitter.com/yourusername" style="margin-right: 15px;">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white" alt="Twitter" style="height: 40px;">
+    <i class="fa fa-twitter" style="font-size: 40px; color: #1DA1F2;"></i>
   </a>
   <a href="https://scholar.google.com/citations?user=your_google_scholar_id" style="margin-right: 15px;">
-    <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?logo=google-scholar&logoColor=white" alt="Google Scholar" style="height: 40px;">
+    <i class="fa fa-google" style="font-size: 40px; color: #4285F4;"></i>
   </a>
   <a href="./assets/cv/Hyunsoo_Lee_CV.pdf">
-    <img src="https://img.shields.io/badge/CV-PDF?logo=pdf&logoColor=white" alt="CV" style="height: 40px;">
+    <i class="fa fa-file-pdf" style="font-size: 40px;"></i>
   </a>
 </div>
 
