@@ -11,11 +11,6 @@ title: "Hyunsoo Lee"
 
 I'm a postdoctoral researcher specializing in **Human-Computer Interaction (HCI)**, **Usable Privacy & Security**, and **Sociotechnical Systems**.
 
-### 💼 What I do:
-
-- 🔒 **Usable Privacy & Security** in digital systems
-- 🧠 **Human-AI Interaction** and usability studies
-- 🌍 Exploring **Sociotechnical Systems** for privacy and security
 
 ---
 ## 🧑‍💻 Research Interests
@@ -38,11 +33,11 @@ Feel free to reach out to me via email, Twitter, or check out my Google Scholar 
   </a>
 
   <a href="https://twitter.com/hyunsoo820" style="margin: 0 15px;" aria-label="Twitter">
-    <i class="fa fa-twitter"></i>
+    <i class="fa-brands fa-twitter"></i>
   </a>
 
   <a href="https://scholar.google.com/citations?user=ctglUjoAAAAJ&hl=en" style="margin: 0 15px;" aria-label="Google Scholar">
-    <i class="fa fa-google"></i>
+    <i class="fa-brands fa-google"></i>
   </a>
 
   <a href="{{ site.author.cv }}" style="margin: 0 15px;" aria-label="CV">
