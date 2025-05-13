@@ -32,19 +32,18 @@ Feel free to reach out to me via email, Twitter, or check out my Google Scholar 
 
 <div style="text-align: center;">
   <a href="mailto:your_email@example.com" style="margin-right: 10px;">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email">
   </a>
   <a href="https://twitter.com/yourusername" style="margin-right: 10px;">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter">
   </a>
   <a href="https://scholar.google.com/citations?user=your_google_scholar_id" style="margin-right: 10px;">
-    <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar">
+    <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat-square&logo=google-scholar&logoColor=white" alt="Google Scholar">
   </a>
   <a href="./assets/cv/Hyunsoo_Lee_CV.pdf">
-    <img src="https://img.shields.io/badge/CV-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="CV">
+    <img src="https://img.shields.io/badge/CV-PDF-red?style=flat-square&logo=adobeacrobatreader&logoColor=white" alt="CV">
   </a>
 </div>
-
 
 ---
 
