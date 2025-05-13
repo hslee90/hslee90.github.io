@@ -8,6 +8,5 @@ author:
   scholar: "ctglUjoAAAAJ&hl"
   cv: "/assets/cv/Hyunsoo_Lee_CV.pdf"
 
-
-
-
+baseurl: ""  # 루트 경로에서 배포되므로 ""로 설정
+url: "https://hslee90.github.io"  # 자신의 GitHub Pages URL
