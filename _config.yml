@@ -1,2 +1,13 @@
-plugins:
-  - jekyll-fontawesome
+title: "Hyunsoo Lee"
+description: "Postdoctoral researcher in HCI, Usable Privacy & Security"
+
+author:
+  name: "Hyunsoo Lee"
+  email: "hslee90@kaist.ac.kr"
+  twitter: "https://x.com/hyunsoo820"
+  scholar: "your_google_scholar_id"
+  cv: "/assets/cv/Hyunsoo_Lee_CV.pdf"
+
+
+# Font Awesome 불러오기
+<script src="https://kit.fontawesome.com/b4c4f9f767.js" crossorigin="anonymous"></script>
