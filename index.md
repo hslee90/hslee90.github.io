@@ -2,6 +2,10 @@
 layout: default
 title: "Hyunsoo Lee"
 ---
+<!-- 프로필 사진 -->
+<div style="text-align: center;">
+  <img src="assets/images/profile.jpg" alt="Profile Image" style="width: 150px; height: 150px; border-radius: 50%; margin-bottom: 20px;">
+</div>
 
 ## 👋 Hi, I'm Hyunsoo Lee
 
@@ -14,11 +18,41 @@ I'm a postdoctoral researcher specializing in **Human-Computer Interaction (HCI)
 - 🌍 Exploring **Sociotechnical Systems** for privacy and security
 
 ---
+## 🧑‍💻 Research Interests
 
-### 📧 Contact
-
-- Email: [hslee90@kaist.ac.kr](mailto:hslee90@kaist.ac.kr)
+- Usable Privacy & Security
+- Human-AI Interaction
+- Sociotechnical Systems
 
 ---
 
-### 📄 [View My Publications](./publications.html)
+## 📝 Contact Info
+
+Feel free to reach out to me via email, Twitter, or check out my Google Scholar profile:
+
+<div style="text-align: center;">
+  <a href="mailto:your_email@example.com" style="margin-right: 15px;">
+    <img src="https://img.shields.io/badge/Email-0077B5?logo=gmail&logoColor=white" alt="Email" style="height: 40px;">
+  </a>
+  <a href="https://twitter.com/yourusername" style="margin-right: 15px;">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white" alt="Twitter" style="height: 40px;">
+  </a>
+  <a href="https://scholar.google.com/citations?user=your_google_scholar_id" style="margin-right: 15px;">
+    <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?logo=google-scholar&logoColor=white" alt="Google Scholar" style="height: 40px;">
+  </a>
+  <a href="./assets/cv/Hyunsoo_Lee_CV.pdf">
+    <img src="https://img.shields.io/badge/CV-PDF?logo=pdf&logoColor=white" alt="CV" style="height: 40px;">
+  </a>
+</div>
+
+---
+
+## 📚 Publications
+
+Here are my latest publications:
+
+- **CHI 2023:** "My Cool Paper". [DOI](https://doi.org/xxx)
+- **UbiComp 2022:** "Another Cool Paper". [DOI](https://doi.org/xxx)
+- **UbiComp 2022:** "Paper Title Here". [DOI](https://doi.org/xxx)
+
+---
