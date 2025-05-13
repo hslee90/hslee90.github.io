@@ -26,6 +26,7 @@ I'm a postdoctoral researcher specializing in **Human-Computer Interaction (HCI)
 
 ---
 
+
 ## 📝 Contact Info
 
 Feel free to reach out to me via email, Twitter, or check out my Google Scholar profile:
@@ -44,11 +45,12 @@ Feel free to reach out to me via email, Twitter, or check out my Google Scholar 
     <i class="fa-brands fa-google"></i>
   </a>
 
-  <a href="{{ site.author.cv }}" style="margin: 0 15px;" aria-label="CV">
+  <a href="/assets/cv/Hyunsoo_Lee_CV.pdf" style="margin: 0 15px;" aria-label="CV">
     <i class="fa-solid fa-file-pdf"></i>
   </a>
 
 </div>
+
 
 ---
 
