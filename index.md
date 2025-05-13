@@ -32,15 +32,15 @@ Feel free to reach out to me via email, Twitter, or check out my Google Scholar 
 
 <div style="text-align: center; font-size: 2rem; color: #002F6C;">
 
-  <a href="mailto:"hslee90@kaist.ac.kr" style="margin: 0 15px;" aria-label="Email">
+  <a href="mailto:hslee90@kaist.ac.kr" style="margin: 0 15px;" aria-label="Email">
     <i class="fa-solid fa-envelope"></i>
   </a>
 
-<a href="https://twitter.com/hyunsoo820" style="margin: 0 15px;" aria-label="Twitter">
+  <a href="https://twitter.com/hyunsoo820" style="margin: 0 15px;" aria-label="Twitter">
     <i class="fa-brands fa-twitter"></i>
   </a>
 
-<a href="https://scholar.google.com/citations?user=ctglUjoAAAAJ&hl"](https://scholar.google.com/citations?user=ctglUjoAAAAJ&hl=en&oi=sra" style="margin: 0 15px;" aria-label="Google Scholar">
+  <a href="https://scholar.google.com/citations?user=ctglUjoAAAAJ&hl=en" style="margin: 0 15px;" aria-label="Google Scholar">
     <i class="fa-brands fa-google"></i>
   </a>
 
@@ -49,6 +49,7 @@ Feel free to reach out to me via email, Twitter, or check out my Google Scholar 
   </a>
 
 </div>
+
 ---
 
 ## 📚 Publications
