@@ -32,7 +32,7 @@ Feel free to reach out to me via email, Twitter, or check out my Google Scholar 
 
 <div style="text-align: center; font-size: 2rem; color: #002F6C;">
 
-  <a href="mailto:{{ site.author.email }}" style="margin: 0 15px;" aria-label="Email">
+  <a href="mailto:{{ hslee90@kaist.ac.kr }}" style="margin: 0 15px;" aria-label="Email">
     <i class="fa-solid fa-envelope"></i>
   </a>
 
