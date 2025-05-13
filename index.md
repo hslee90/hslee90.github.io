@@ -45,12 +45,11 @@ Feel free to reach out to me via email, Twitter, or check out my Google Scholar 
     <i class="fa-brands fa-google"></i>
   </a>
 
-  <a href="/assets/cv/Hyunsoo_Lee_CV.pdf" style="margin: 0 15px;" aria-label="CV">
+  <a href="{{ site.author.cv }}" style="margin: 0 15px;" aria-label="CV">
     <i class="fa-solid fa-file-pdf"></i>
   </a>
 
 </div>
-
 
 ---
 
