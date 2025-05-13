@@ -1,0 +1,27 @@
+body {
+  font-family: 'Arial', sans-serif;
+  max-width: 800px;
+  margin: auto;
+  padding: 20px;
+  color: #001F5B;
+}
+
+h1, h2, h3 {
+  color: #001F5B;
+}
+
+.icon-bar {
+  text-align: center;
+  margin: 30px 0;
+}
+
+.icon-bar a {
+  margin: 0 10px;
+  display: inline-block;
+}
+
+.icon-bar img {
+  width: 40px;
+  height: 40px;
+  filter: brightness(0) saturate(100%) invert(10%) sepia(96%) saturate(1800%) hue-rotate(202deg) brightness(90%) contrast(100%);
+}
