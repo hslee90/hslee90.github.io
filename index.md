@@ -7,7 +7,7 @@ title: "Hyunsoo Lee"
 
   <!-- 왼쪽: 사진 + 아이콘 -->
   <div class="sidebar">
-    <img src="{{ site.baseurl }}/assets/images/profile.jpg" alt="Profile Image" class="profile-img">
+    <img src="assets/img/profile.jpg" alt="Profile Image" class="profile-img">
     
     <!-- 이름, 직함, 소속 -->
     <div class="profile-info">
