@@ -42,7 +42,7 @@ title: "Hyunsoo Lee"
       <span>- Ubiquitous Computing </span>
     </div>
 
-    <h2>PUBLICATIONS</h2>
+    <h2 id="publications"><h2>PUBLICATIONS</h2>
 
     <div class="publication-item">
       <strong>FamilyScope: Visualizing Affective Aspects of Family Social Interactions using Passive Sensor Data</strong><br>
