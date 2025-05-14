@@ -120,22 +120,28 @@ h2#publications {
 
 /* CV 버튼 스타일 (데스크탑 기본) */
 .cv-button {
-  display: inline-block;
-  padding: 6px 12px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: 2px 8px;
   background-color: #002F6C; /* 남색 배경 */
   color: #ffffff; /* 흰색 글씨 */
-  border-radius: 20px; /* 둥글게 */
+  border-radius: 12px;
+  font-size: 0.8rem;
+  font-weight: 500;
   text-decoration: none;
-  font-weight: 600;
-  font-size: 0.9rem;
+  height: 24px; /* 아이콘 높이에 맞춤 */
+  line-height: 1;
   border: 1px solid #002F6C;
   transition: background-color 0.3s ease, transform 0.2s ease;
+  margin-left: 8px; /* 아이콘들과 살짝 간격 */
 }
 
 .cv-button:hover {
-  background-color: #0055A4; /* 남색보다 조금 밝게 */
-  transform: translateY(-2px);
+  background-color: #0055A4; /* 밝은 남색 */
+  transform: translateY(-1px);
 }
+
 
 /* 반응형 디자인: 모바일 */
 @media (max-width: 768px) {
@@ -166,10 +172,11 @@ h2#publications {
     height: 120px;
   }
 
-  .cv-button {
-    font-size: 0.8rem;
-    padding: 4px 10px;
-    border-radius: 18px;
+ .cv-button {
+    font-size: 0.75rem;
+    height: 22px;
+    padding: 2px 6px;
+    border-radius: 10px;
   }
 
   .icon-links {
