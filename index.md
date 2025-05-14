@@ -10,17 +10,17 @@ title: "Hyunsoo Lee"
   </div>
 
   <!-- 로고 아이콘들 -->
-  <div style="text-align: left;">
-    <a href="mailto:hslee90@kaist.ac.kr" style="margin: 10px 0;">
+  <div style="display: flex; flex-direction: column; text-align: left; gap: 10px;">
+    <a href="mailto:hslee90@kaist.ac.kr">
       <i class="fa-solid fa-envelope" style="font-size: 2rem; color: #002F6C;"></i>
     </a>
-    <a href="https://twitter.com/hyunsoo820" style="margin: 10px 0;">
+    <a href="https://twitter.com/hyunsoo820">
       <i class="fa-brands fa-twitter" style="font-size: 2rem; color: #002F6C;"></i>
     </a>
-    <a href="https://scholar.google.com/citations?user=ctglUjoAAAAJ&hl=en" style="margin: 10px 0;">
+    <a href="https://scholar.google.com/citations?user=ctglUjoAAAAJ&hl=en">
       <i class="fa-brands fa-google" style="font-size: 2rem; color: #002F6C;"></i>
     </a>
-    <a href="/assets/cv/Hyunsoo_Lee_CV.pdf" style="margin: 10px 0;">
+    <a href="/assets/cv/Hyunsoo_Lee_CV.pdf">
       <i class="fa-solid fa-file-pdf" style="font-size: 2rem; color: #002F6C;"></i>
     </a>
   </div>
@@ -31,6 +31,7 @@ title: "Hyunsoo Lee"
     <p>I'm a postdoctoral researcher specializing in <strong>Human-Computer Interaction (HCI)</strong>, <strong>Usable Privacy & Security</strong>, and <strong>Sociotechnical Systems</strong>.</p>
   </div>
 </div>
+
 ---
 ## 🧑‍💻 Research Interests
 
