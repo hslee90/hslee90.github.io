@@ -1,4 +1,3 @@
----
 layout: default
 title: "Hyunsoo Lee"
 ---
@@ -8,11 +7,24 @@ title: "Hyunsoo Lee"
   <!-- 왼쪽: 사진 + 아이콘 -->
   <div class="sidebar">
     <img src="{{ site.baseurl }}/assets/images/profile.jpg" alt="Profile Image" class="profile-img">
+    
+    <!-- 이름, 직함, 소속 -->
+    <div class="profile-info">
+      <h2>Hyunsoo Lee</h2>
+      <p>Postdoctoral Researcher</p>
+      <p>KAIST School of Computing</p>
+    </div>
+
     <div class="icon-links">
       <a href="mailto:hslee90@kaist.ac.kr"><i class="fa-solid fa-envelope"></i></a>
       <a href="https://twitter.com/hyunsoo820"><i class="fa-brands fa-twitter"></i></a>
       <a href="https://scholar.google.com/citations?user=ctglUjoAAAAJ&hl=en"><i class="fa-brands fa-google"></i></a>
       <a href="{{ site.baseurl }}/assets/cv/Hyunsoo_Lee_CV.pdf"><i class="fa-solid fa-file-pdf"></i></a>
+    </div>
+
+    <!-- 로고 -->
+    <div class="logo">
+      <img src="{{ site.baseurl }}/assets/images/logo.png" alt="Logo">
     </div>
   </div>
 
