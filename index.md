@@ -2,6 +2,7 @@
 layout: default
 title: "Hyunsoo Lee"
 ---
+
 <div class="page-wrapper">
 
   <!-- 왼쪽: 사진 + 아이콘 -->
@@ -28,21 +29,20 @@ title: "Hyunsoo Lee"
     <p>I'm a postdoctoral researcher specializing in <strong>Human-Computer Interaction (HCI)</strong>, <strong>Usable Privacy & Security</strong>, and <strong>Sociotechnical Systems</strong>.</p>
 
     <h2 id="research-interests">RESEARCH INTERESTS</h2>
-    <!-- Research Interests 항목을 div로 감싸기 -->
     <div>
       <span>- Usable Privacy & Security</span>
     </div>
     <div>
-      <span>- Interaction Design in Digital Health & Wellbeing </span>
-    </div>
-      <div>
-      <span>- Human-AI Interaction in Sociotechnical Systems </span>
+      <span>- Interaction Design in Digital Health & Wellbeing</span>
     </div>
     <div>
-      <span>- Ubiquitous Computing </span>
+      <span>- Human-AI Interaction in Sociotechnical Systems</span>
+    </div>
+    <div>
+      <span>- Ubiquitous Computing</span>
     </div>
 
-    <h2 id="publications"><h2>PUBLICATIONS</h2>
+    <h2 id="publications">PUBLICATIONS</h2>
 
     <div class="publication-item">
       <strong>FamilyScope: Visualizing Affective Aspects of Family Social Interactions using Passive Sensor Data</strong><br>
@@ -120,5 +120,7 @@ title: "Hyunsoo Lee"
       <span class="publication-venue">AsianHCI’19: Proceedings of Asian CHI Symposium 2019: Emerging HCI Research Collection (Glasgow, Scotland UK, May 4-9, 2019), CHI'19</span><br>
       <a href="link_to_pdf_3.pdf">PDF</a>
     </div>
+
   </div>
+
 </div>
