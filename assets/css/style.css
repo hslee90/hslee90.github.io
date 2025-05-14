@@ -81,55 +81,44 @@ p, ul, li {
   margin-bottom: 12px;
 }
 
-/* 연구 관심사 섹션 스타일 */
-#research-interests {
-  margin-bottom: 24px; /* Research Interests 섹션과 다른 섹션 사이 간격 */
+/* publication 목록 스타일 */
+ul {
+  padding-left: 20px;
 }
 
-/* research interest 하위 항목들 */
-#research-interests div {
-  margin-bottom: 8px; /* 항목 간 간격 좁히기 */
-}
-
-/* 연구 관심사 항목 스타일 */
-#research-interests div span {
-  display: block;
-  font-size: 1rem;
-  color: #333;
-}
-
-/* Publication 섹션과 그 하위 항목 간격 조정 */
-.pub-block {
-  margin-bottom: 24px;
-  padding: 20px;
-  border: 1px solid #ddd;
-  border-radius: 12px;
-  background-color: #f9f9f9;
-  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-}
-
-/* Publication 내 이름만 볼드체 */
-.pub-block span:first-child {
-  font-weight: bold;
-}
-
-/* Publication 제목과 날짜 간격 좁히기 */
-.pub-block span {
-  font-size: 0.9rem;
-  color: #555;
-  display: block;
-  margin-top: 8px; /* 날짜와 링크 간격 좁히기 */
-}
-
-/* 간격을 더 좁혀서 정보들을 한줄로 정렬 */
-.pub-block a {
-  font-size: 0.9rem;
-  color: #0073e6;
+/* 링크 스타일 */
+a {
+  color: #002F6C;
   text-decoration: none;
 }
 
-.pub-block a:hover {
+a:hover {
   text-decoration: underline;
+}
+
+/* Research Interests와 그 하위 항목 간격 좁히기 */
+#research-interests + div {
+  margin-top: 0.5rem; /* 간격 좁히기 */
+}
+
+#research-interests + div span {
+  display: block;
+  margin-bottom: 0.3rem; /* 각 항목 간격 좁히기 */
+}
+
+/* Publications과 하위 항목 간격 조정 */
+.pub-block {
+  margin-bottom: 1.5rem; /* 각 publication 간 간격 */
+}
+
+/* Research Interests와 Publications 구분자 간격 조정 */
+h2 + div {
+  margin-top: 1.5rem;
+}
+
+/* Publication 항목이 넘어갈 때 간격 늘리기 */
+.pub-block + .pub-block {
+  margin-top: 2rem; /* Publication 항목 간격 넓히기 */
 }
 
 /* 반응형 디자인: 모바일 */
@@ -174,6 +163,4 @@ p, ul, li {
     padding-left: 0;
   }
 }
-
-
 
