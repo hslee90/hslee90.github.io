@@ -109,7 +109,7 @@ a:hover {
 
 /* Publications과 하위 항목 간 간격 좁히기 */
 #publications + ul {
-  margin-top: 0.3rem !important; /* Publications 하위 항목과 간격 좁히기 */
+  margin-top: 0.1rem !important; /* Publications 하위 항목과 간격 좁히기 */
   padding-top: 0 !important; /* 여백 없애기 */
 }
 
