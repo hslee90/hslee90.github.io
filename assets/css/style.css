@@ -42,6 +42,26 @@ body {
   margin-bottom: 15px;
 }
 
+/* 아이콘 링크 */
+.icon-links {
+  margin-top: 15px;
+  display: flex;
+  justify-content: center;
+  gap: 15px;
+}
+
+.icon-links a {
+  display: inline-block;
+  color: #002F6C;
+  font-size: 1.6rem;
+  transition: color 0.3s ease, transform 0.3s ease;
+}
+
+.icon-links a:hover {
+  color: #0055A4;
+  transform: scale(1.2);
+}
+
 /* 본문 영역 */
 .main-content {
   flex: 1;
@@ -56,56 +76,14 @@ h1, h2, h3 {
   margin-bottom: 12px;
 }
 
-/* Publication 섹션 */
-.pub-block {
-  margin-bottom: 24px;
-  padding: 20px;
-  border: 1px solid #ddd;
-  border-radius: 12px;
-  background-color: #f9f9f9;
-  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+/* publication 등 본문 단락 간 간격 */
+p, ul, li {
+  margin-bottom: 12px;
 }
 
-.pub-block strong {
-  font-size: 1.2rem;
-  color: #333;
-}
-
-.pub-block span {
-  font-size: 0.9rem;
-  color: #555;
-  display: block;
-  margin-top: 8px;
-}
-
-.pub-block a {
-  font-size: 0.9rem;
-  color: #0073e6;
-  text-decoration: none;
-}
-
-.pub-block a:hover {
-  text-decoration: underline;
-}
-
-/* Publication 내 이름만 볼드체 */
-.pub-block span:first-child {
-  font-weight: bold;
-}
-
-/* 연구 관심사 섹션 */
-#research-interests {
-  line-height: 1.3;
-  margin-bottom: 24px;
-}
-
-#research-interests ul {
-  margin-top: 10px;
-}
-
-#research-interests ul li {
-  list-style-type: disc;
-  margin-bottom: 8px;
+/* publication 목록 스타일 */
+ul {
+  padding-left: 20px;
 }
 
 /* 링크 스타일 */
@@ -115,6 +93,56 @@ a {
 }
 
 a:hover {
+  text-decoration: underline;
+}
+
+/* 소개글과 연구 관심사 섹션 간격 조정 */
+.main-content p {
+  margin-bottom: 24px; /* 소개글과 연구 관심사 사이 간격 조정 */
+}
+
+/* 연구 관심사 하위 항목 간격 좁히기 */
+#research-interests ul li {
+  list-style-type: disc;
+  margin-bottom: 6px; /* 항목 간 간격을 좁혔어 */
+}
+
+/* 연구 관심사 섹션과 Publication 섹션 간격 조정 */
+#research-interests {
+  margin-bottom: 40px; /* 연구 관심사와 퍼블리케이션 섹션 사이 간격 조정 */
+}
+
+/* Publication 섹션과 그 하위 항목 간격 조정 */
+.pub-block {
+  margin-bottom: 24px;
+  padding: 20px;
+  border: 1px solid #ddd;
+  border-radius: 12px;
+  background-color: #f9f9f9;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+/* Publication 내 이름만 볼드체 */
+.pub-block span:first-child {
+  font-weight: bold;
+}
+
+/* Publication 제목과 날짜 간격 좁히기 */
+.pub-block span {
+  font-size: 0.9rem;
+  color: #555;
+  display: block;
+  margin-top: 8px; /* 날짜와 링크 간격 좁히기 */
+}
+
+/* 간격을 더 좁혀서 정보들을 한줄로 정렬 */
+.pub-block a {
+  font-size: 0.9rem;
+  color: #0073e6;
+  text-decoration: none;
+}
+
+.pub-block a:hover {
   text-decoration: underline;
 }
 
@@ -160,4 +188,5 @@ a:hover {
     padding-left: 0;
   }
 }
+
 
