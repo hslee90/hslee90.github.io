@@ -32,22 +32,7 @@ title: "Hyunsoo Lee"
       As sensing technologies and AI systems become increasingly embedded in everyday life—through mobile health apps, smart homes, and wearable devices—the need for transparent, user-centered designs is more urgent than ever. Users often lack awareness of how their data is processed or how decisions are made based on 
       that data. My research aims to create ethical design solutions that enable users to interact with these systems in ways that protect their privacy, support their mental well-being, and foster autonomy. Grounded in human-centered design, this work integrates usable privacy, AI ethics, and data interaction to develop 
       systems that promote responsible, user-driven engagement with technology.
-
 </p>
-
-    <h2 id="research-interests">RESEARCH INTERESTS</h2>
-    <div>
-      <span>- Usable Privacy & Security</span>
-    </div>
-    <div>
-      <span>- Interaction Design in Digital Health & Wellbeing</span>
-    </div>
-    <div>
-      <span>- Human-AI Interaction in Sociotechnical Systems</span>
-    </div>
-    <div>
-      <span>- Ubiquitous Computing</span>
-    </div>
 
     <h2 id="publications">PUBLICATIONS</h2>
 
