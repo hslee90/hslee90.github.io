@@ -94,9 +94,15 @@ a:hover {
   text-decoration: underline;
 }
 
-/* publication에서 이름만 볼드 처리 */
-.publication-list strong {
-  font-weight: bold;
+/* Research Interests 섹션만 줄 간격 좁게 */
+#research-interests ul {
+  line-height: 1.3; /* 리스트 항목 간 간격 좁히기 */
+  margin-bottom: 24px;
+}
+
+/* Publication 목록에서 내 이름만 볼드체 */
+.publication-list .author {
+  font-weight: bold; /* 내 이름만 볼드체로 */
 }
 
 /* 반응형 디자인: 모바일 */
@@ -140,10 +146,4 @@ a:hover {
   .main-content {
     padding-left: 0;
   }
-}
-
-/* Research Interests 섹션만 줄 간격 좁게 */
-#research-interests {
-  line-height: 1.3;
-  margin-bottom: 24px;
 }
