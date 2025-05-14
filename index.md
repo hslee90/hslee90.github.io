@@ -49,7 +49,7 @@ title: "Hyunsoo Lee"
 
     <div class="publication-item">
       <strong>Toward Dynamic Consent for Privacy-Aware Pervasive Health and Well-being: A scoping review and research directions</strong><br>
-      <span class="publication-authors"><strong>Hyunsoo Lee</strong> and Uichin Lee</span><br>
+      <span class="publication-authors"><strong>Hyunsoo Lee</strong>, Uichin Lee</span><br>
       <span class="publication-venue">IEEE International Conference on Pervasive Computing and Communications, IEEE’22</span><br>
       <a href="link_to_pdf_3.pdf">PDF</a>
     </div>
