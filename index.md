@@ -32,7 +32,7 @@ title: "Hyunsoo Lee"
   <div class="main-content">
         <p>I'm a postdoctoral researcher specializing in <strong>Human-Computer Interaction (HCI)</strong>, <strong>Usable Privacy & Security</strong>, and <strong>Sociotechnical Systems</strong>.</p>
 
-    <h2>🧑‍💻 Research Interests</h2>
+    <h2 id="research-interests">Research Interests</h2><h2>🧑‍💻 Research Interests</h2>
     <ul>
       <li>Usable Privacy & Security</li>
       <li>Human-AI Interaction</li>
