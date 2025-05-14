@@ -103,17 +103,17 @@ a:hover {
 
 /* Research Interests 하위 항목과 Publications 간 간격 늘리기 */
 #research-interests + ul + h2 {
-  margin-top: 3rem; /* 간격 늘리기 */
+  margin-top: 5rem; /* 간격 늘리기 */
 }
 
 /* Publications과 하위 항목 간 간격 좁히기 */
 #publications + ul {
-  margin-top: 0.5rem; /* Publications 하위 항목과 간격 좁히기 */
+  margin-top: 0.1rem; /* Publications 하위 항목과 간격 좁히기 */
 }
 
 /* Publications 바로 위 간격 조정 */
 h2#publications {
-  margin-top: 3rem; /* Publications과 그 하위 항목 간의 간격을 넓히기 */
+  margin-top: 2rem; /* Publications과 그 하위 항목 간의 간격을 넓히기 */
 }
 
 /* 반응형 디자인: 모바일 */
