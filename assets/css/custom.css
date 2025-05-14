@@ -1,9 +1,9 @@
 .page-wrapper {
   display: flex;
   flex-direction: row;
-  max-width: 1200px;         
-  margin: 80px auto 40px;    
-  padding: 0 40px;          
+  max-width: 1200px;
+  margin: 80px auto 40px;
+  padding: 0 40px;
   align-items: flex-start;
 }
 
@@ -33,4 +33,31 @@
 .main-content {
   flex: 1;
   padding-left: 40px;
+}
+
+/* 모바일 화면에서 스타일 수정 */
+@media (max-width: 768px) {
+  .page-wrapper {
+    flex-direction: column; /* 세로로 배치 */
+    padding: 0 20px; /* 좌우 패딩 줄이기 */
+  }
+
+  .sidebar {
+    width: 100%; /* 사이드바가 100% 차지하게 */
+    margin-bottom: 20px; /* 사이드바 아래 여백 */
+  }
+
+  .profile-img {
+    width: 120px; /* 이미지 크기 줄이기 */
+    height: 120px;
+  }
+
+  .main-content {
+    padding-left: 0; /* 본문 왼쪽 패딩 제거 */
+  }
+
+  .icon-links a {
+    font-size: 1.2rem; /* 아이콘 크기 줄이기 */
+    margin: 0 5px; /* 간격 줄이기 */
+  }
 }
