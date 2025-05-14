@@ -27,7 +27,7 @@ title: "Hyunsoo Lee"
   <!-- 오른쪽: 텍스트 내용 -->
   <div class="main-content">
     <p>I'm a researcher in <strong>Human-Computer Interaction (HCI)</strong> and <strong>Usable Privacy & Security</strong>. My research aims to address issues in the current landscape of data-rich environments (e.g., multimodal sensing, AI): <i>How 
-      can we design user-centered systems that empower individuals to manage and reflect on their data, prioritizing privacy, mental well-being, and user control?</i>
+      can we design user-centered systems that empower individuals to manage and reflect on their data, prioritizing privacy, mental well-being, and user control?</i><br>
 
       As sensing technologies and AI systems become increasingly embedded in everyday life—through mobile health apps, smart homes, and wearable devices—the need for transparent, user-centered designs is more urgent than ever. Users often lack awareness of how their data is processed or how decisions are made based on 
       that data. My research aims to create ethical design solutions that enable users to interact with these systems in ways that protect their privacy, support their mental well-being, and foster autonomy. Grounded in human-centered design, my work integrates usable privacy, AI ethics, and data interaction to develop 
