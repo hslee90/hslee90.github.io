@@ -20,7 +20,7 @@ title: "Hyunsoo Lee"
       <a href="mailto:hslee90@kaist.ac.kr"><i class="fa-solid fa-envelope"></i></a>
       <a href="https://twitter.com/hyunsoo820"><i class="fa-brands fa-twitter"></i></a>
       <a href="https://scholar.google.com/citations?user=ctglUjoAAAAJ&hl=en"><i class="fa-brands fa-google"></i></a>
-     <a href="assets/CV.pdf" target="_blank" class="cv-button">CV</a>
+     <a href="assets/CV.pdf" class="cv-box">CV</a>
     </div>
   </div>
 
