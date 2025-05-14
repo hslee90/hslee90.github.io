@@ -2,25 +2,25 @@
 layout: default
 title: "Hyunsoo Lee"
 ---
-<div style="display: flex; flex-direction: column; align-items: flex-start; padding-left: 20px;">
+<div style="display: flex; flex-direction: row; align-items: flex-start; padding-left: 20px;">
 
   <!-- 왼쪽: 프로필 이미지 + 아이콘 -->
-  <div style="text-align: left; margin-bottom: 20px;">
+  <div style="text-align: left; margin-right: 30px;">
     <img src="assets/images/profile.jpg" alt="Profile Image" style="width: 150px; height: 150px; border-radius: 50%; margin-bottom: 15px;">
   </div>
 
   <!-- 로고 아이콘들 -->
-  <div style="display: flex; flex-direction: column; text-align: left; gap: 10px;">
-    <a href="mailto:hslee90@kaist.ac.kr">
+  <div style="text-align: left;">
+    <a href="mailto:hslee90@kaist.ac.kr" style="margin: 10px 0;">
       <i class="fa-solid fa-envelope" style="font-size: 2rem; color: #002F6C;"></i>
     </a>
-    <a href="https://twitter.com/hyunsoo820">
+    <a href="https://twitter.com/hyunsoo820" style="margin: 10px 0;">
       <i class="fa-brands fa-twitter" style="font-size: 2rem; color: #002F6C;"></i>
     </a>
-    <a href="https://scholar.google.com/citations?user=ctglUjoAAAAJ&hl=en">
+    <a href="https://scholar.google.com/citations?user=ctglUjoAAAAJ&hl=en" style="margin: 10px 0;">
       <i class="fa-brands fa-google" style="font-size: 2rem; color: #002F6C;"></i>
     </a>
-    <a href="/assets/cv/Hyunsoo_Lee_CV.pdf">
+    <a href="/assets/cv/Hyunsoo_Lee_CV.pdf" style="margin: 10px 0;">
       <i class="fa-solid fa-file-pdf" style="font-size: 2rem; color: #002F6C;"></i>
     </a>
   </div>
