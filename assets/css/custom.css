@@ -1,10 +1,10 @@
 .page-wrapper {
   display: flex;
   flex-direction: row;
-  align-items: flex-start;
   max-width: 1000px;
   margin: 50px auto;
-  padding: 0 20px;
+  padding: 20px;
+  align-items: flex-start;
 }
 
 .sidebar {
@@ -25,7 +25,7 @@
 
 .icon-links a {
   display: inline-block;
-  margin: 0 6px;
+  margin: 0 8px;
   color: #002F6C;
   font-size: 1.6rem;
 }
