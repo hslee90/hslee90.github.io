@@ -16,13 +16,13 @@ title: "Hyunsoo Lee"
       <p>KAIST School of Computing</p>
     </div>
 
-    <div class="icon-links">
-      <a href="mailto:hslee90@kaist.ac.kr"><i class="fa-solid fa-envelope"></i></a>
-      <a href="https://twitter.com/hyunsoo820"><i class="fa-brands fa-twitter"></i></a>
-      <a href="https://scholar.google.com/citations?user=ctglUjoAAAAJ&hl=en"><i class="fa-brands fa-google"></i></a>
-     <a href="assets/CV.pdf" class="cv-box">CV</a>
-    </div>
-  </div>
+   <div class="icon-links">
+  <a href="mailto:hslee90@kaist.ac.kr"><i class="fa-solid fa-envelope"></i></a>
+  <a href="https://twitter.com/hyunsoo820"><i class="fa-brands fa-twitter"></i></a>
+  <a href="https://scholar.google.com/citations?user=ctglUjoAAAAJ&hl=en"><i class="fa-brands fa-google"></i></a>
+  <a href="assets/CV.pdf" class="cv-box">CV</a>
+</div>
+
 
   <!-- 오른쪽: 텍스트 내용 -->
   <div class="main-content">
