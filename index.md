@@ -2,7 +2,9 @@
 layout: default
 title: "Hyunsoo Lee"
 ---
- <!-- 왼쪽: 프로필 이미지 + 아이콘 -->
+<div style="display: flex; align-items: flex-start; gap: 30px;">
+
+  <!-- 왼쪽: 프로필 이미지 + 아이콘 -->
   <div style="text-align: center;">
     <img src="assets/images/profile.jpg" alt="Profile Image" style="width: 150px; height: 150px; border-radius: 50%; margin-bottom: 15px;">
 
@@ -16,11 +18,13 @@ title: "Hyunsoo Lee"
     </div>
   </div>
 
+  <!-- 오른쪽: 자기소개 글 -->
+  <div>
+    <h1>👋 Hi, I'm Hyunsoo Lee</h1>
+    <p>I'm a postdoctoral researcher specializing in <strong>Human-Computer Interaction (HCI)</strong>, <strong>Usable Privacy & Security</strong>, and <strong>Sociotechnical Systems</strong>.</p>
+  </div>
 
-## 👋 Hi, I'm Hyunsoo Lee
-
-I'm a postdoctoral researcher specializing in **Human-Computer Interaction (HCI)**, **Usable Privacy & Security**, and **Sociotechnical Systems**.
-
+</div>
 
 ---
 ## 🧑‍💻 Research Interests
