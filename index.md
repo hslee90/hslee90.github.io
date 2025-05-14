@@ -39,7 +39,7 @@ title: "Hyunsoo Lee"
       <span>- Human-AI Interaction in Sociotechnical Systems </span>
     </div>
     <div>
-      <span>- Context-Aware Computing in Ubiquitous Environments</span>
+      <span>- Ubiquitous Computing </span>
     </div>
 
     <h2>Publications</h2>
