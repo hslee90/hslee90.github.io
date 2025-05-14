@@ -13,10 +13,11 @@
 }
 
 .profile-img {
-  width: 150px;
-  height: 150px;
-  border-radius: 50%;
-  margin-bottom: 15px;
+  width: 160px;          /* 너비: 원하는 사이즈 */
+  height: 160px;         /* 높이: 동그랗게 맞춰야 하니까 같게 */
+  object-fit: cover;     /* 비율 유지하면서 자르기 */
+  border-radius: 50%;    /* 동그랗게 만들기 */
+  border: 2px solid #ccc; /* (선택) 테두리 예쁘게 */
 }
 
 .icon-links {
