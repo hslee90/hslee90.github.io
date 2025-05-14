@@ -30,13 +30,16 @@ title: "Hyunsoo Lee"
     <h2 id="research-interests">Research Interests</h2>
     <!-- Research Interests 항목을 div로 감싸기 -->
     <div>
-      <span>Usable Privacy & Security</span>
+      <span>- Usable Privacy & Security</span>
     </div>
     <div>
-      <span>Human-AI Interaction</span>
+      <span>- Interaction Design in Digital Health & Wellbeing </span>
+    </div>
+      <div>
+      <span>- Human-AI Interaction in Sociotechnical Systems </span>
     </div>
     <div>
-      <span>Sociotechnical Systems</span>
+      <span>- Context-Aware Computing in Ubiquitous Environments</span>
     </div>
 
     <h2>Publications</h2>
