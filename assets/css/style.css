@@ -12,6 +12,7 @@ body {
   margin: auto;
   padding: 20px;
   color: #001F5B;
+  font-size: 16px;
 }
 
 /* 제목 색상 설정 */
@@ -69,37 +70,115 @@ h1, h2, h3 {
   transform: scale(1.1);
 }
 
-/* 반응형 디자인 - 모바일 화면에서도 아이콘 바 가로 배치 */
+/* 레이아웃 관련 스타일 */
+.page-wrapper {
+  display: flex;
+  flex-direction: row;
+  max-width: 1200px;
+  margin: 80px auto 40px;
+  padding: 0 40px;
+  align-items: flex-start;
+}
+
+.sidebar {
+  width: 200px;
+  text-align: center;
+  flex-shrink: 0;
+}
+
+.profile-img {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  margin-bottom: 15px;
+}
+
+.icon-links {
+  margin-top: 10px;
+  display: flex;
+  justify-content: center;
+  gap: 15px;
+  flex-wrap: wrap;
+}
+
+.icon-links a {
+  color: #002F6C;
+  font-size: 1.6rem;
+  transition: color 0.3s ease, transform 0.3s ease;
+}
+
+.icon-links a:hover {
+  color: #0055A4;
+  transform: scale(1.2);
+}
+
+.main-content {
+  flex: 1;
+  padding-left: 40px;
+}
+
+/* Publication 스타일 */
+.publication {
+  margin-bottom: 20px;
+}
+
+.publication-title {
+  font-weight: bold;
+  font-size: 1.1rem;
+}
+
+.publication-authors {
+  margin-top: 5px;
+  font-style: italic;
+}
+
+.publication-meta {
+  margin-top: 2px;
+  color: #444;
+  font-size: 0.95rem;
+}
+
+.publication a {
+  margin-left: 8px;
+  color: #0055A4;
+  text-decoration: none;
+}
+
+.publication a:hover {
+  text-decoration: underline;
+}
+
+/* 반응형 디자인 */
 @media (max-width: 768px) {
+  .page-wrapper {
+    flex-direction: column;
+    padding: 20px;
+  }
+
+  .sidebar {
+    width: 100%;
+    margin-bottom: 20px;
+  }
+
+  .main-content {
+    padding-left: 0;
+  }
+
   .icon-bar {
-    flex-direction: row; /* 아이콘을 여전히 가로로 배치 */
-    gap: 15px; /* 아이콘 간 간격 유지 */
+    flex-direction: row;
+    gap: 15px;
   }
 
-  /* 아이콘 크기 조정 */
   .icon-bar i {
-    font-size: 1.6rem; /* 아이콘 크기 줄이기 */
+    font-size: 1.6rem;
   }
 
-  /* 아이콘 박스 크기 조정 */
   .icon-bar a.icon-square {
     width: 40px;
     height: 40px;
     font-size: 18px;
   }
 
-  /* 본문 최대 너비 조정 */
-  body {
-    max-width: 100%;
-    padding: 10px;
-  }
-
-  /* 제목 크기 조정 */
-  h1, h2, h3 {
-    font-size: 1.5rem;
-  }
-
-  /* 프로필 이미지 중앙 정렬 */
   .profile-img {
     display: block;
     margin-left: auto;
@@ -108,28 +187,13 @@ h1, h2, h3 {
     height: 120px;
   }
 
-  /* 아이콘 바 배치 세로로 변경 */
-  .icon-bar {
-    flex-direction: row; /* 여전히 가로로 배치 */
+  h1, h2, h3 {
+    font-size: 1.5rem;
   }
 
-  /* 본문 여백 줄이기 */
-  .page-wrapper {
-    flex-direction: column; /* 세로로 배치 */
-    padding: 20px;
-  }
-
-  .sidebar {
-    width: 100%; /* 사이드바 너비 100%로 변경 */
-    margin-bottom: 20px;
-  }
-
-  .main-content {
-    padding-left: 0;
-  }
-
-  /* 본문 텍스트 크기 조정 */
   body {
-    font-size: 14px; /* 작은 화면에서 폰트 크기 줄이기 */
+    max-width: 100%;
+    padding: 10px;
+    font-size: 14px;
   }
 }
