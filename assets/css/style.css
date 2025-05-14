@@ -1,3 +1,11 @@
+/* 기본 스타일 리셋 */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* 전체 폰트 설정 */
 body {
   font-family: 'Arial', sans-serif;
   max-width: 800px;
@@ -6,18 +14,19 @@ body {
   color: #001F5B;
 }
 
+/* 제목 색상 설정 */
 h1, h2, h3 {
   color: #001F5B;
+  font-weight: bold;
 }
 
+/* 아이콘 바 스타일 */
 .icon-bar {
   text-align: center;
   margin: 30px 0;
-}
-
-.icon-bar a {
-  margin: 0 10px;
-  display: inline-block;
+  display: flex;
+  justify-content: center;
+  gap: 15px;
 }
 
 /* 이미지 로고 (예전 방식) */
@@ -39,13 +48,7 @@ h1, h2, h3 {
   transform: scale(1.2);
 }
 
-.icon-bar {
-  margin-top: 15px;
-  display: flex;
-  justify-content: center;
-  gap: 15px;
-}
-
+/* 아이콘 바 박스 스타일 */
 .icon-bar a.icon-square {
   display: flex;
   align-items: center;
@@ -60,7 +63,73 @@ h1, h2, h3 {
   text-decoration: none;
 }
 
+/* 아이콘 hover 박스 효과 */
 .icon-bar a.icon-square:hover {
   background-color: #0056b3;
   transform: scale(1.1);
+}
+
+/* 반응형 디자인 - 모바일 화면에서도 아이콘 바 가로 배치 */
+@media (max-width: 768px) {
+  .icon-bar {
+    flex-direction: row; /* 아이콘을 여전히 가로로 배치 */
+    gap: 15px; /* 아이콘 간 간격 유지 */
+  }
+
+  /* 아이콘 크기 조정 */
+  .icon-bar i {
+    font-size: 1.6rem; /* 아이콘 크기 줄이기 */
+  }
+
+  /* 아이콘 박스 크기 조정 */
+  .icon-bar a.icon-square {
+    width: 40px;
+    height: 40px;
+    font-size: 18px;
+  }
+
+  /* 본문 최대 너비 조정 */
+  body {
+    max-width: 100%;
+    padding: 10px;
+  }
+
+  /* 제목 크기 조정 */
+  h1, h2, h3 {
+    font-size: 1.5rem;
+  }
+
+  /* 프로필 이미지 중앙 정렬 */
+  .profile-img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 120px;
+    height: 120px;
+  }
+
+  /* 아이콘 바 배치 세로로 변경 */
+  .icon-bar {
+    flex-direction: row; /* 여전히 가로로 배치 */
+  }
+
+  /* 본문 여백 줄이기 */
+  .page-wrapper {
+    flex-direction: column; /* 세로로 배치 */
+    padding: 20px;
+  }
+
+  .sidebar {
+    width: 100%; /* 사이드바 너비 100%로 변경 */
+    margin-bottom: 20px;
+  }
+
+  .main-content {
+    padding-left: 0;
+  }
+
+  /* 본문 텍스트 크기 조정 */
+  body {
+    font-size: 14px; /* 작은 화면에서 폰트 크기 줄이기 */
+  }
 }
