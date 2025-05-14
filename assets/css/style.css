@@ -96,38 +96,29 @@ a:hover {
   text-decoration: underline;
 }
 
-/* Research Interests와 그 하위 항목 간격 좁히기 */
-#research-interests + div {
+/* Research Interests와 그 하위 항목 간 간격 좁히기 */
+#research-interests + ul {
   margin-top: 0.3rem; /* 간격 좁히기 */
 }
 
-#research-interests + div span {
-  display: block;
-  margin-bottom: 0.3rem; /* 각 항목 간격 좁히기 */
+/* Research Interests의 하위 항목 간 간격 일정하게 */
+#research-interests + ul li {
+  margin-bottom: 0.3rem; /* 각 항목 간 간격 일정하게 */
 }
 
-/* 첫째, 둘째, 셋째 항목 간격을 일관되게 조정 */
-#research-interests + div span:nth-child(1) {
-  margin-top: 0; /* 첫째 항목과의 간격을 제거 */
+/* Research Interests 하위 항목과 Publications 간 간격 늘리기 */
+#research-interests + ul + h2 {
+  margin-top: 2rem; /* Research Interests 하위 항목과 Publications 간 간격 늘리기 */
 }
 
-#research-interests + div span:nth-child(n+2) {
-  margin-top: 0.5rem; /* 둘째, 셋째 항목과의 간격을 좁힘 */
+/* Publications과 하위 항목 간 간격 줄이기 */
+#research-interests + ul + h2 + ul li {
+  margin-bottom: 0.8rem; /* Publications 항목과 그 하위 항목 간 간격 줄이기 */
 }
 
-/* Publications과 하위 항목 간격 조정 */
-.pub-block {
-  margin-bottom: 1.5rem; /* 각 publication 간 간격 */
-}
-
-/* Research Interests와 Publications 구분자 간격 조정 */
-h2 + div {
-  margin-top: 1.5rem;
-}
-
-/* Publication 항목이 넘어갈 때 간격 늘리기 */
-.pub-block + .pub-block {
-  margin-top: 2rem; /* Publication 항목 간격 넓히기 */
+/* Publication 항목 간 간격 줄이기 */
+#research-interests + ul + h2 + ul li {
+  margin-bottom: 0.8rem; /* 각 Publication 항목 간 간격 */
 }
 
 /* 반응형 디자인: 모바일 */
@@ -172,4 +163,6 @@ h2 + div {
     padding-left: 0;
   }
 }
+
+
 
