@@ -22,11 +22,15 @@ title: "Hyunsoo Lee"
       <a href="{{ site.baseurl }}/assets/cv/Hyunsoo_Lee_CV.pdf"><i class="fa-solid fa-file-pdf"></i></a>
     </div>
 
-  
+    <!-- 로고 제거 -->
+    <!-- <div class="logo">
+      <img src="{{ site.baseurl }}/assets/images/logo.png" alt="Logo">
+    </div> -->
+  </div>
 
   <!-- 오른쪽: 텍스트 내용 -->
   <div class="main-content">
-    <h1> Hi, I'm Hyunsoo Lee</h1>
+    <h1>👋 Hi, I'm Hyunsoo Lee</h1>
     <p>I'm a postdoctoral researcher specializing in <strong>Human-Computer Interaction (HCI)</strong>, <strong>Usable Privacy & Security</strong>, and <strong>Sociotechnical Systems</strong>.</p>
 
     <h2>🧑‍💻 Research Interests</h2>
