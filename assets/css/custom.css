@@ -1,0 +1,42 @@
+/* 프로필 전체 컨테이너 */
+.profile-container {
+  display: flex;
+  align-items: flex-start;
+  padding: 30px;
+}
+
+/* 왼쪽 영역: 이미지 + 아이콘 */
+.profile-left {
+  flex-shrink: 0;
+  margin-right: 30px;
+  text-align: left;
+}
+
+.profile-left img {
+  width: 140px;
+  height: 140px;
+  border-radius: 50%;
+}
+
+.profile-icons {
+  margin-top: 20px;
+}
+
+.profile-icons a {
+  margin-right: 15px;
+}
+
+.profile-icons i {
+  font-size: 1.8rem;
+  color: #002F6C;
+}
+
+/* 오른쪽 소개글 */
+.profile-right h1 {
+  margin-top: 0;
+}
+
+.profile-right p {
+  font-size: 1.1rem;
+  max-width: 600px;
+}
