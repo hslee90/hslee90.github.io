@@ -7,7 +7,7 @@ title: "Hyunsoo Lee"
 
   <!-- 왼쪽: 사진 + 아이콘 -->
   <div class="sidebar">
-   <img src="assets/img/profile.JPG" alt="Profile Image" class="profile-img">
+    <img src="assets/img/profile.JPG" alt="Profile Image" class="profile-img">
     
     <!-- 이름, 직함, 소속 -->
     <div class="profile-info">
@@ -16,23 +16,20 @@ title: "Hyunsoo Lee"
       <p>KAIST School of Computing</p>
     </div>
 
-   <div class="icon-links">
-  <a href="mailto:hslee90@kaist.ac.kr"><i class="fa-solid fa-envelope"></i></a>
-  <a href="https://twitter.com/hyunsoo820"><i class="fa-brands fa-twitter"></i></a>
-  <a href="https://scholar.google.com/citations?user=ctglUjoAAAAJ&hl=en"><i class="fa-brands fa-google"></i></a>
-<a href="assets/CV.pdf" target="_blank" class="cv-button">CV</a>
-</div>
-
+    <!-- 이메일, 트위터, 구글스칼라, CV -->
+    <div class="icon-links">
+      <a href="mailto:hslee90@kaist.ac.kr"><i class="fa-solid fa-envelope"></i></a>
+      <a href="https://twitter.com/hyunsoo820"><i class="fa-brands fa-twitter"></i></a>
+      <a href="https://scholar.google.com/citations?user=ctglUjoAAAAJ&hl=en"><i class="fa-brands fa-google"></i></a>
+      <a href="assets/CV.pdf" target="_blank" class="cv-button">CV</a>
+    </div>
+  </div> <!-- .sidebar 닫기 -->
 
   <!-- 오른쪽: 텍스트 내용 -->
   <div class="main-content">
-    <p>I'm a researcher in <strong>Human-Computer Interaction (HCI)</strong> and <strong>Usable Privacy & Security</strong>. My research aims to address issues in the current landscape of data-rich environments (e.g., multimodal sensing, AI): <i>How 
-      can we design user-centered systems that empower individuals to manage and reflect on their data, prioritizing privacy, mental well-being, and user control?</i><br>
+    <p>I'm a researcher in <strong>Human-Computer Interaction (HCI)</strong> and <strong>Usable Privacy & Security</strong>. My research aims to address issues in the current landscape of data-rich environments (e.g., multimodal sensing, AI): <i>How can we design user-centered systems that empower individuals to manage and reflect on their data, prioritizing privacy, mental well-being, and user control?</i></p>
 
-      As sensing technologies and AI systems become increasingly embedded in everyday life—through mobile health apps, smart homes, and wearable devices—the need for transparent, user-centered designs is more urgent than ever. Users often lack awareness of how their data is processed or how decisions are made based on 
-      that data. My research aims to create ethical design solutions that enable users to interact with these systems in ways that protect their privacy, support their mental well-being, and foster autonomy. Grounded in human-centered design, my work integrates usable privacy, AI ethics, and data interaction to develop 
-      systems that promote responsible, user-driven engagement with technology.
-</p>
+    <p>As sensing technologies and AI systems become increasingly embedded in everyday life—through mobile health apps, smart homes, and wearable devices—the need for transparent, user-centered designs is more urgent than ever. Users often lack awareness of how their data is processed or how decisions are made based on that data. My research aims to create ethical design solutions that enable users to interact with these systems in ways that protect their privacy, support their mental well-being, and foster autonomy. Grounded in human-centered design, my work integrates usable privacy, AI ethics, and data interaction to develop systems that promote responsible, user-driven engagement with technology.</p>
 
     <h2 id="publications">PUBLICATIONS</h2>
 
@@ -113,6 +110,6 @@ title: "Hyunsoo Lee"
       <a href="link_to_pdf_3.pdf">PDF</a>
     </div>
 
-  </div>
+  </div> <!-- .main-content 닫기 -->
 
-</div>
+</div> <!-- .page-wrapper 닫기 -->
