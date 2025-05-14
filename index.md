@@ -2,6 +2,7 @@
 layout: default
 title: "Hyunsoo Lee"
 ---
+
 <div class="page-wrapper">
 
   <!-- 왼쪽: 이미지 + 아이콘 -->
@@ -23,9 +24,10 @@ title: "Hyunsoo Lee"
 
 </div>
 
+
 ---
 ## 🧑‍💻 Research Interests
-
+ 
 - Usable Privacy & Security
 - Human-AI Interaction
 - Sociotechnical Systems
