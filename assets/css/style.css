@@ -20,8 +20,21 @@ h1, h2, h3 {
   display: inline-block;
 }
 
+/* 이미지 로고 (예전 방식) */
 .icon-bar img {
   width: 40px;
   height: 40px;
   filter: brightness(0) saturate(100%) invert(10%) sepia(96%) saturate(1800%) hue-rotate(202deg) brightness(90%) contrast(100%);
+}
+
+/* Font Awesome 아이콘 스타일 (지금 쓰는 거) */
+.icon-bar i {
+  font-size: 1.8rem;
+  color: #002F6C;
+  transition: color 0.3s ease, transform 0.3s ease;
+}
+
+.icon-bar a:hover i {
+  color: #0055A4;
+  transform: scale(1.2);
 }
