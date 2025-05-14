@@ -2,11 +2,12 @@
 layout: default
 title: "Hyunsoo Lee"
 ---
-<div class="profile-container">
+<div class="page-wrapper">
 
-  <div class="profile-left">
+  <!-- 왼쪽: 이미지 + 아이콘 -->
+  <div class="sidebar">
     <img src="assets/images/profile.jpg" alt="Profile Image">
-    <div class="profile-icons">
+    <div>
       <a href="mailto:hslee90@kaist.ac.kr"><i class="fa-solid fa-envelope"></i></a>
       <a href="https://twitter.com/hyunsoo820"><i class="fa-brands fa-twitter"></i></a>
       <a href="https://scholar.google.com/citations?user=ctglUjoAAAAJ&hl=en"><i class="fa-brands fa-google"></i></a>
@@ -14,16 +15,13 @@ title: "Hyunsoo Lee"
     </div>
   </div>
 
-  <div class="profile-right">
+  <!-- 오른쪽: 본문 -->
+  <div class="main-content">
     <h1>👋 Hi, I'm Hyunsoo Lee</h1>
-    <p>
-      I'm a postdoctoral researcher specializing in <strong>Human-Computer Interaction (HCI)</strong>, 
-      <strong>Usable Privacy & Security</strong>, and <strong>Sociotechnical Systems</strong>.
-    </p>
+    <p>I'm a postdoctoral researcher specializing in <strong>Human-Computer Interaction (HCI)</strong>, <strong>Usable Privacy & Security</strong>, and <strong>Sociotechnical Systems</strong>.</p>
   </div>
 
 </div>
-
 ---
 ## 🧑‍💻 Research Interests
 
