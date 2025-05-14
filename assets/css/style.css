@@ -5,9 +5,11 @@
   box-sizing: border-box;
 }
 
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap');
+
 /* 전체 폰트 및 색상 설정 */
 body {
-  font-family: 'Arial', sans-serif;
+  font-family: 'Inter', sans-serif;
   color: #000;
   background-color: #fff;
   line-height: 1.6;
