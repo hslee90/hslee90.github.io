@@ -98,26 +98,42 @@ a:hover {
 
 /* Research Interests와 그 하위 항목 간 간격 좁히기 */
 #research-interests + div > ul {
-  margin-top: 0.1rem !important; /* 간격 좁히기 */
-  padding-top: 0 !important; /* 추가 여백 없애기 */
+  margin-top: 0.1rem !important;
+  padding-top: 0 !important;
 }
 
 /* Research Interests 하위 항목과 Publications 간 간격 늘리기 */
 #research-interests + div > ul + h2 {
-  margin-top: 4rem !important; /* 간격 늘리기 */
+  margin-top: 4rem !important;
 }
 
 /* Publications과 하위 항목 간 간격 좁히기 */
 #publications + div > ul {
-  margin-top: 0.3rem !important; /* Publications 하위 항목과 간격 좁히기 */
-  padding-top: 0 !important; /* 여백 없애기 */
+  margin-top: 0.3rem !important;
+  padding-top: 0 !important;
 }
 
 /* Publications 바로 위 간격 조정 */
 h2#publications {
-  margin-top: 3rem !important; /* Publications과 그 하위 항목 간의 간격을 넓히기 */
+  margin-top: 3rem !important;
 }
 
+/* CV 버튼 스타일 */
+.cv-button {
+  display: inline-block;
+  padding: 6px 12px;
+  background-color: #444;
+  color: white;
+  border-radius: 4px;
+  text-decoration: none;
+  font-weight: bold;
+  font-size: 0.9rem;
+  transition: background-color 0.3s ease;
+}
+
+.cv-button:hover {
+  background-color: #666;
+}
 
 /* 반응형 디자인: 모바일 */
 @media (max-width: 768px) {
@@ -148,20 +164,10 @@ h2#publications {
     height: 120px;
   }
 
-.cv-button {
-  display: inline-block;
-  padding: 6px 12px;
-  background-color: #444;
-  color: white;
-  border-radius: 4px;
-  text-decoration: none;
-  font-weight: bold;
-  font-size: 0.9rem;
-}
-
-.cv-button:hover {
-  background-color: #666;
-}
+  .cv-button {
+    font-size: 0.8rem;
+    padding: 4px 8px;
+  }
 
   .icon-links {
     justify-content: center;
@@ -176,6 +182,3 @@ h2#publications {
     padding-left: 0;
   }
 }
-
-
-
