@@ -27,7 +27,7 @@ title: "Hyunsoo Lee"
   <div class="main-content">
     <p>I'm a postdoctoral researcher specializing in <strong>Human-Computer Interaction (HCI)</strong>, <strong>Usable Privacy & Security</strong>, and <strong>Sociotechnical Systems</strong>.</p>
 
-    <h2 id="research-interests">Research Interests</h2>
+    <h2 id="research-interests">RESEARCH INTERESTS</h2>
     <!-- Research Interests 항목을 div로 감싸기 -->
     <div>
       <span>- Usable Privacy & Security</span>
@@ -42,7 +42,7 @@ title: "Hyunsoo Lee"
       <span>- Ubiquitous Computing </span>
     </div>
 
-    <h2>Publications</h2>
+    <h2>PUBLICATIONS</h2>
 
     <div class="publication-item">
       <strong>FamilyScope: Visualizing Affective Aspects of Family Social Interactions using Passive Sensor Data</strong><br>
