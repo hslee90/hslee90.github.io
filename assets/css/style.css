@@ -98,12 +98,21 @@ a:hover {
 
 /* Research Interests와 그 하위 항목 간격 좁히기 */
 #research-interests + div {
-  margin-top: 0.5rem; /* 간격 좁히기 */
+  margin-top: 0.3rem; /* 간격 좁히기 */
 }
 
 #research-interests + div span {
   display: block;
   margin-bottom: 0.3rem; /* 각 항목 간격 좁히기 */
+}
+
+/* 첫째, 둘째, 셋째 항목 간격을 일관되게 조정 */
+#research-interests + div span:nth-child(1) {
+  margin-top: 0; /* 첫째 항목과의 간격을 제거 */
+}
+
+#research-interests + div span:nth-child(n+2) {
+  margin-top: 0.5rem; /* 둘째, 셋째 항목과의 간격을 좁힘 */
 }
 
 /* Publications과 하위 항목 간격 조정 */
