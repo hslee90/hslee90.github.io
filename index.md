@@ -39,74 +39,74 @@ title: "Hyunsoo Lee"
       <li>Sociotechnical Systems</li>
     </ul>
 
-    <h2>📚 Publications</h2>
+    <h2>Publications</h2>
     <ul>
-    <li>
-    <strong>FamilyScope: Visualizing Affective Aspects of Family Social Interactions using Passive Sensor Data</strong><br>
-    <span>Hyunsoo Lee, Yugyeong Jung, Youwon Shin, Hyesoo Park, Woohyeok Choi, Uichin Lee</span><br>
-    <span>The ACM Conference on Computer-Supported Cooperative Work and Social Computing (San José, Costa Rica, Nov 9-13, 2024), CSCW'24</span><br>
-    <a href="link_to_pdf_1.pdf" target="_blank">PDF</a>
-  </li>
-  <li>
-    <strong>PriviAware: Exploring Data Visualization and Dynamic Privacy Control Support for Data Collection in Mobile Sensing Research</strong><br>
-    <span>Hyunsoo Lee, Yugyeong Jung, Emily Law, Seolyeong Bae, Uichin Lee</span><br>
-    <span>Proceedings of the ACM Conference on Human Factors in Computing Systems (Hawaii, USA, May 11-16, 2024), CHI'24</span><br>
-    <a href="link_to_pdf_2.pdf" target="_blank">PDF</a>
-  </li>
-  <li>
-    <strong>Toward Dynamic Consent for Privacy-Aware Pervasive Health and Well-being: A scoping review and research directions</strong><br>
-    <span>Hyunsoo Lee and Uichin Lee</span><br>
-    <span>IEEE International Conference on Pervasive Computing and Communications, IEEE’22</span><br>
-    <a href="link_to_pdf_3.pdf" target="_blank">PDF</a>
-  </li>
-  <li>
-    <strong>Understanding Perceived Benefits and Privacy Risks in Open Dataset Collection for Mobile Affective Computing</strong><br>
-    <span>Hyunsoo Lee, Soowon Kang, Uichin Lee</span><br>
-    <span>Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT/UbiComp)(Cambridge, UK, Sep 11-15, 2022), IMWUT'22</span><br>
-    <a href="link_to_pdf_3.pdf" target="_blank">PDF</a>
-  </li>
-  <li>
-    <strong>Dynamic Consent for Sensor-Driven Research</strong><br>
-    <span>Hyunsoo Lee, Uichin Lee</span><br>
-    <span>International Conference on Mobile Computing and Ubiquitous Networking. (Tokyo, Japan,  Nov 17-19, 2021), ICMU'21</span><br>
-    <a href="link_to_pdf_3.pdf" target="_blank">PDF</a>
-  </li>  
-  <li>
-    <strong>Sticky Goals: Understanding Goal Commitments for Behavioral Changes in the Wild</strong><br>
-    <span>Hyunsoo Lee, Auk Kim, Hwajung Hong, Uichin Lee</span><br>
-    <span>Proceedings of the ACM Conference on Human Factors in Computing Systems (Yokohama, Japan, May 8-13, 2021), CHI'21</span><br>
-    <a href="link_to_pdf_3.pdf" target="_blank">PDF</a>
-  </li>  
    <li>
-    <strong>GoldenTime: Exploring System-Driven Timeboxing and Micro-Financial Incentives for Self-Regulated Phone Use</strong><br>
-    <span>Joonyoung Park, Hyunsoo Lee, Sangkeun Park, Kyong-Mee Chung, Uichin Lee</span><br>
-    <span>Proceedings of the ACM Conference on Human Factors in Computing Systems (Yokohama, Japan, May 8-13, 2021), CHI'21</span><br>
-    <a href="link_to_pdf_3.pdf" target="_blank">PDF</a>
-  </li>  
-  <li>
-    <strong>Privacy Concerns of Digital Phenotyping for Older Adults with Mental Health Issues</strong><br>
-    <span>Hyunsoo Lee, Uichin Lee</span><br>
-    <span>ACM CHI 2020 NETWORKED PRIVACY WORKSHOP (Hawaii, USA, April 25-30, 2020), CHI'20</span><br>
-    <a href="link_to_pdf_3.pdf" target="_blank">PDF</a>
-  </li>  
-  <li>
-    <strong>LocknType: Lockout Task Intervention for Discouraging Smartphone App Use</strong><br>
-    <span>Jaejeung Kim, Joonyoung Park, Hyunsoo Lee, Minsam Ko, Uichin Lee</span><br>
-    <span>Proceedings of the ACM Conference on Human Factors in Computing Systems (Glasgow, Scotland UK, May 4-9, 2019), CHI'19</span><br>
-    <a href="link_to_pdf_3.pdf" target="_blank">PDF</a>
-  </li>  
-  <li>
-    <strong>Positive Computing for Digital Wellbeing,” In Designing for Digital Wellbeing: A Research & Practice Agenda</strong><br>
-    <span>Uichin Lee, Hyunsoo Lee, Joonyoung Park</span><br>
-    <span>Designing for Digital Wellbeing: A Research & Practice Agenda  (Glasgow, Scotland UK, May 4-9, 2019), CHI'19</span><br>
-    <a href="link_to_pdf_3.pdf" target="_blank">PDF</a>
-  </li>  
-  <li>
-    <strong>Commitment devices in online behavior change support systems</strong><br>
-    <span>Hyunsoo Lee, Hwajung Hong, Uichin Lee</span><br>
-    <span>AsianHCI’19: Proceedings of Asian CHI Symposium 2019: Emerging HCI Research Collection (Glasgow, Scotland UK, May 4-9, 2019), CHI'19</span><br>
-    <a href="link_to_pdf_3.pdf" target="_blank">PDF</a>
-  </li>
+        <strong>FamilyScope: Visualizing Affective Aspects of Family Social Interactions using Passive Sensor Data</strong><br>
+        <span><strong>Hyunsoo Lee</strong>, Yugyeong Jung, Youwon Shin, Hyesoo Park, Woohyeok Choi, Uichin Lee</span><br>
+        <span>The ACM Conference on Computer-Supported Cooperative Work and Social Computing (San José, Costa Rica, Nov 9-13, 2024), CSCW'24</span><br>
+        <a href="link_to_pdf_1.pdf" target="_blank">PDF</a>
+      </li>
+      <li>
+        <strong>PriviAware: Exploring Data Visualization and Dynamic Privacy Control Support for Data Collection in Mobile Sensing Research</strong><br>
+        <span><strong>Hyunsoo Lee</strong>, Yugyeong Jung, Emily Law, Seolyeong Bae, Uichin Lee</span><br>
+        <span>Proceedings of the ACM Conference on Human Factors in Computing Systems (Hawaii, USA, May 11-16, 2024), CHI'24</span><br>
+        <a href="link_to_pdf_2.pdf" target="_blank">PDF</a>
+      </li>
+      <li>
+        <strong>Toward Dynamic Consent for Privacy-Aware Pervasive Health and Well-being: A scoping review and research directions</strong><br>
+        <span><strong>Hyunsoo Lee</strong> and Uichin Lee</span><br>
+        <span>IEEE International Conference on Pervasive Computing and Communications, IEEE’22</span><br>
+        <a href="link_to_pdf_3.pdf" target="_blank">PDF</a>
+      </li>
+      <li>
+        <strong>Understanding Perceived Benefits and Privacy Risks in Open Dataset Collection for Mobile Affective Computing</strong><br>
+        <span><strong>Hyunsoo Lee</strong>, Soowon Kang, Uichin Lee</span><br>
+        <span>Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT/UbiComp)(Cambridge, UK, Sep 11-15, 2022), IMWUT'22</span><br>
+        <a href="link_to_pdf_3.pdf" target="_blank">PDF</a>
+      </li>
+      <li>
+        <strong>Dynamic Consent for Sensor-Driven Research</strong><br>
+        <span><strong>Hyunsoo Lee</strong>, Uichin Lee</span><br>
+        <span>International Conference on Mobile Computing and Ubiquitous Networking. (Tokyo, Japan,  Nov 17-19, 2021), ICMU'21</span><br>
+        <a href="link_to_pdf_3.pdf" target="_blank">PDF</a>
+      </li>  
+      <li>
+        <strong>Sticky Goals: Understanding Goal Commitments for Behavioral Changes in the Wild</strong><br>
+        <span><strong>Hyunsoo Lee</strong>, Auk Kim, Hwajung Hong, Uichin Lee</span><br>
+        <span>Proceedings of the ACM Conference on Human Factors in Computing Systems (Yokohama, Japan, May 8-13, 2021), CHI'21</span><br>
+        <a href="link_to_pdf_3.pdf" target="_blank">PDF</a>
+      </li>  
+      <li>
+        <strong>GoldenTime: Exploring System-Driven Timeboxing and Micro-Financial Incentives for Self-Regulated Phone Use</strong><br>
+        <span>Joonyoung Park, <strong>Hyunsoo Lee</strong>, Sangkeun Park, Kyong-Mee Chung, Uichin Lee</span><br>
+        <span>Proceedings of the ACM Conference on Human Factors in Computing Systems (Yokohama, Japan, May 8-13, 2021), CHI'21</span><br>
+        <a href="link_to_pdf_3.pdf" target="_blank">PDF</a>
+      </li>  
+      <li>
+        <strong>Privacy Concerns of Digital Phenotyping for Older Adults with Mental Health Issues</strong><br>
+        <span><strong>Hyunsoo Lee</strong>, Uichin Lee</span><br>
+        <span>ACM CHI 2020 NETWORKED PRIVACY WORKSHOP (Hawaii, USA, April 25-30, 2020), CHI'20</span><br>
+        <a href="link_to_pdf_3.pdf" target="_blank">PDF</a>
+      </li>  
+      <li>
+        <strong>LocknType: Lockout Task Intervention for Discouraging Smartphone App Use</strong><br>
+        <span>Jaejeung Kim, Joonyoung Park, <strong>Hyunsoo Lee</strong>, Minsam Ko, Uichin Lee</span><br>
+        <span>Proceedings of the ACM Conference on Human Factors in Computing Systems (Glasgow, Scotland UK, May 4-9, 2019), CHI'19</span><br>
+        <a href="link_to_pdf_3.pdf" target="_blank">PDF</a>
+      </li>  
+      <li>
+        <strong>Positive Computing for Digital Wellbeing,” In Designing for Digital Wellbeing: A Research & Practice Agenda</strong><br>
+        <span>Uichin Lee, <strong>Hyunsoo Lee</strong>, Joonyoung Park</span><br>
+        <span>Designing for Digital Wellbeing: A Research & Practice Agenda  (Glasgow, Scotland UK, May 4-9, 2019), CHI'19</span><br>
+        <a href="link_to_pdf_3.pdf" target="_blank">PDF</a>
+      </li>  
+      <li>
+        <strong>Commitment devices in online behavior change support systems</strong><br>
+        <span><strong>Hyunsoo Lee</strong>, Hwajung Hong, Uichin Lee</span><br>
+        <span>AsianHCI’19: Proceedings of Asian CHI Symposium 2019: Emerging HCI Research Collection (Glasgow, Scotland UK, May 4-9, 2019), CHI'19</span><br>
+        <a href="link_to_pdf_3.pdf" target="_blank">PDF</a>
+      </li>
 </ul>
   </div>
 
