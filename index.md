@@ -30,7 +30,7 @@ title: "Hyunsoo Lee"
 
   <!-- 오른쪽: 텍스트 내용 -->
   <div class="main-content">
-    <h1>👋 Hi, I'm Hyunsoo Lee</h1>
+    <h1> Hi, I'm Hyunsoo Lee</h1>
     <p>I'm a postdoctoral researcher specializing in <strong>Human-Computer Interaction (HCI)</strong>, <strong>Usable Privacy & Security</strong>, and <strong>Sociotechnical Systems</strong>.</p>
 
     <h2>🧑‍💻 Research Interests</h2>
