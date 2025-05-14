@@ -148,23 +148,25 @@ h2#publications {
     height: 120px;
   }
 
-  .cv-box {
-  display: inline-block;
-  padding: 6px 16px;
-  border: 2px solid #444;
+ .icon-links a.cv-box {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 40px;
+  height: 40px;
+  background-color: #001F54; /* 네이비 */
+  color: white;
   border-radius: 6px;
-  font-weight: 600;
-  color: #444;
-  background-color: #fff;
+  font-weight: bold;
+  font-size: 0.85rem;
   text-decoration: none;
-  font-size: 0.95rem;
-  transition: all 0.2s ease-in-out;
+  text-transform: uppercase;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.2);
 }
 
-.cv-box:hover {
-  background-color: #f0f0f0;
-  color: #000;
-  border-color: #000;
+/* hover 효과 주고 싶다면 추가 */
+.icon-links a.cv-box:hover {
+  background-color: #003377;
 }
   .icon-links {
     justify-content: center;
