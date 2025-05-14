@@ -96,9 +96,9 @@ title: "Hyunsoo Lee"
         <a href="link_to_pdf_3.pdf" target="_blank">PDF</a>
       </li>  
       <li>
-        <strong>Positive Computing for Digital Wellbeing,” In Designing for Digital Wellbeing: A Research & Practice Agenda</strong><br>
+        <strong>Positive Computing for Digital Wellbeing</strong><br>
         <span>Uichin Lee, <strong>Hyunsoo Lee</strong>, Joonyoung Park</span><br>
-        <span>Designing for Digital Wellbeing: A Research & Practice Agenda  (Glasgow, Scotland UK, May 4-9, 2019), CHI'19</span><br>
+        <span>Designing for Digital Wellbeing: A Research & Practice Agenda (Glasgow, Scotland UK, May 4-9, 2019), CHI'19</span><br>
         <a href="link_to_pdf_3.pdf" target="_blank">PDF</a>
       </li>  
       <li>
