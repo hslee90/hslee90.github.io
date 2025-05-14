@@ -11,14 +11,31 @@ body {
   max-width: 800px;
   margin: auto;
   padding: 20px;
-  color: #001F5B;
-  font-size: 16px;
+  color: #000000; /* 기본 텍스트 색상 검정 */
+  line-height: 1.6; /* 줄 간 여백 추가 */
+  font-size: 16px; /* 기본 텍스트 크기 */
 }
 
-/* 제목 색상 설정 */
+/* 제목 색상 및 여백 설정 */
 h1, h2, h3 {
-  color: #001F5B;
+  color: #000000; /* 제목 색상 검정 */
   font-weight: bold;
+  margin-bottom: 16px; /* 제목 하단 여백 */
+}
+
+/* 제목 위쪽 여백 */
+h2, h3 {
+  margin-top: 32px;
+}
+
+/* 리스트 여백 */
+ul, ol {
+  margin-left: 20px;
+  margin-bottom: 16px;
+}
+
+li {
+  margin-bottom: 8px;
 }
 
 /* 아이콘 바 스타일 */
@@ -37,7 +54,7 @@ h1, h2, h3 {
   filter: brightness(0) saturate(100%) invert(10%) sepia(96%) saturate(1800%) hue-rotate(202deg) brightness(90%) contrast(100%);
 }
 
-/* Font Awesome 아이콘 스타일 (지금 쓰는 거) */
+/* Font Awesome 아이콘 스타일 */
 .icon-bar i {
   font-size: 1.8rem;
   color: #002F6C;
@@ -64,106 +81,13 @@ h1, h2, h3 {
   text-decoration: none;
 }
 
-/* 아이콘 hover 박스 효과 */
 .icon-bar a.icon-square:hover {
   background-color: #0056b3;
   transform: scale(1.1);
 }
 
-/* 레이아웃 관련 스타일 */
-.page-wrapper {
-  display: flex;
-  flex-direction: row;
-  max-width: 1200px;
-  margin: 80px auto 40px;
-  padding: 0 40px;
-  align-items: flex-start;
-}
-
-.sidebar {
-  width: 200px;
-  text-align: center;
-  flex-shrink: 0;
-}
-
-.profile-img {
-  width: 150px;
-  height: 150px;
-  border-radius: 50%;
-  margin-bottom: 15px;
-}
-
-.icon-links {
-  margin-top: 10px;
-  display: flex;
-  justify-content: center;
-  gap: 15px;
-  flex-wrap: wrap;
-}
-
-.icon-links a {
-  color: #002F6C;
-  font-size: 1.6rem;
-  transition: color 0.3s ease, transform 0.3s ease;
-}
-
-.icon-links a:hover {
-  color: #0055A4;
-  transform: scale(1.2);
-}
-
-.main-content {
-  flex: 1;
-  padding-left: 40px;
-}
-
-/* Publication 스타일 */
-.publication {
-  margin-bottom: 20px;
-}
-
-.publication-title {
-  font-weight: bold;
-  font-size: 1.1rem;
-}
-
-.publication-authors {
-  margin-top: 5px;
-  font-style: italic;
-}
-
-.publication-meta {
-  margin-top: 2px;
-  color: #444;
-  font-size: 0.95rem;
-}
-
-.publication a {
-  margin-left: 8px;
-  color: #0055A4;
-  text-decoration: none;
-}
-
-.publication a:hover {
-  text-decoration: underline;
-}
-
-/* 반응형 디자인 */
+/* 반응형 디자인 - 모바일 화면에서도 아이콘 바 가로 배치 */
 @media (max-width: 768px) {
-  .page-wrapper {
-    flex-direction: column;
-    padding: 20px;
-  }
-
-  .sidebar {
-    width: 100%;
-    margin-bottom: 20px;
-  }
-
-  .main-content {
-    padding-left: 0;
-  }
-
   .icon-bar {
     flex-direction: row;
     gap: 15px;
@@ -179,6 +103,16 @@ h1, h2, h3 {
     font-size: 18px;
   }
 
+  body {
+    max-width: 100%;
+    padding: 10px;
+    font-size: 14px;
+  }
+
+  h1, h2, h3 {
+    font-size: 1.5rem;
+  }
+
   .profile-img {
     display: block;
     margin-left: auto;
@@ -187,13 +121,49 @@ h1, h2, h3 {
     height: 120px;
   }
 
-  h1, h2, h3 {
-    font-size: 1.5rem;
+  .icon-bar {
+    flex-direction: row;
   }
 
-  body {
-    max-width: 100%;
-    padding: 10px;
-    font-size: 14px;
+  .page-wrapper {
+    flex-direction: column;
+    padding: 20px;
   }
+
+  .sidebar {
+    width: 100%;
+    margin-bottom: 20px;
+  }
+
+  .main-content {
+    padding-left: 0;
+  }
+} 
+
+/* 데스크탑용 레이아웃 여백 조정 */
+.page-wrapper {
+  display: flex;
+  flex-direction: row;
+  max-width: 1200px;
+  margin: 80px auto 40px;
+  padding: 0 60px; /* 좌우 여백 늘림 */
+  align-items: flex-start;
+  gap: 60px; /* 사이드바와 콘텐츠 사이 간격 */
+}
+
+.sidebar {
+  width: 220px;
+  text-align: center;
+}
+
+.profile-img {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  margin-bottom: 15px;
+}
+
+.main-content {
+  flex: 1;
+  padding-left: 0;
 }
