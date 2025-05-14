@@ -22,11 +22,7 @@ title: "Hyunsoo Lee"
       <a href="{{ site.baseurl }}/assets/cv/Hyunsoo_Lee_CV.pdf"><i class="fa-solid fa-file-pdf"></i></a>
     </div>
 
-    <!-- 로고 -->
-    <div class="logo">
-      <img src="{{ site.baseurl }}/assets/images/logo.png" alt="Logo">
-    </div>
-  </div>
+  
 
   <!-- 오른쪽: 텍스트 내용 -->
   <div class="main-content">
