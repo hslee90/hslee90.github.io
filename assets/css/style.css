@@ -101,19 +101,14 @@ a:hover {
   margin-top: 0.3rem; /* 간격 좁히기 */
 }
 
-/* Research Interests의 하위 항목 간 간격 일정하게 */
-#research-interests + ul li {
-  margin-bottom: 0.3rem; /* 각 항목 간 간격 일정하게 */
-}
-
 /* Research Interests 하위 항목과 Publications 간 간격 늘리기 */
 #research-interests + ul + h2 {
-  margin-top: 6rem; /* Research Interests 하위 항목과 Publications 간 간격 늘리기 */
+  margin-top: 2rem; /* 간격 늘리기 */
 }
 
-/* Publications과 하위 항목 간 간격 줄이기 */
-#research-interests + ul + h2 + ul li {
-  margin-bottom: 0.8rem; /* Publications 항목과 그 하위 항목 간 간격 줄이기 */
+/* Publications과 하위 항목 간 간격 좁히기 */
+#publications + ul {
+  margin-top: 0.3rem; /* Publications 하위 항목과 간격 좁히기 */
 }
 
 /* Publication 항목 간 간격 줄이기 */
