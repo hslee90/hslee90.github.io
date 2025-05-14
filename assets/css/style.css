@@ -98,7 +98,7 @@ a:hover {
 
 /* Research Interests와 그 하위 항목 간 간격 좁히기 */
 #research-interests + ul {
-  margin-top: 0.2rem; /* 간격 좁히기 */
+  margin-top: 0.8rem; /* 간격 좁히기 */
 }
 
 /* Research Interests의 하위 항목 간 간격 일정하게 */
