@@ -6,12 +6,13 @@ title: "Hyunsoo Lee"
 <div style="text-align: center;">
   <img src="assets/images/profile.jpg" alt="Profile Image" style="width: 150px; height: 150px; border-radius: 50%; margin-bottom: 10px;">
 
-  <div style="margin-top: 10px;">
-    <a href="mailto:hslee90@kaist.ac.kr" style="margin: 0 10px; color: #002F6C; font-size: 1.8rem;" class="icon-link"><i class="fa-solid fa-envelope"></i></a>
-    <a href="https://twitter.com/hyunsoo820" style="margin: 0 10px; color: #002F6C; font-size: 1.8rem;" class="icon-link"><i class="fa-brands fa-twitter"></i></a>
-    <a href="https://scholar.google.com/citations?user=ctglUjoAAAAJ&hl=en" style="margin: 0 10px; color: #002F6C; font-size: 1.8rem;" class="icon-link"><i class="fa-brands fa-google"></i></a>
-    <a href="/assets/cv/Hyunsoo_Lee_CV.pdf" style="margin: 0 10px; color: #002F6C; font-size: 1.8rem;" class="icon-link"><i class="fa-solid fa-file-pdf"></i></a>
-  </div>
+<div class="icon-bar">
+  <a href="mailto:hslee90@kaist.ac.kr"><i class="fa-solid fa-envelope"></i></a>
+  <a href="https://twitter.com/hyunsoo820"><i class="fa-brands fa-twitter"></i></a>
+  <a href="https://scholar.google.com/citations?user=ctglUjoAAAAJ&hl=en"><i class="fa-brands fa-google"></i></a>
+  <a href="/assets/cv/Hyunsoo_Lee_CV.pdf"><i class="fa-solid fa-file-pdf"></i></a>
+</div>
+
 </div>
 
 
