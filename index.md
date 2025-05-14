@@ -28,13 +28,18 @@ title: "Hyunsoo Lee"
     <p>I'm a postdoctoral researcher specializing in <strong>Human-Computer Interaction (HCI)</strong>, <strong>Usable Privacy & Security</strong>, and <strong>Sociotechnical Systems</strong>.</p>
 
     <h2 id="research-interests">Research Interests</h2>
-    <ul class="compact-list">
-      <li>Usable Privacy & Security</li>
-      <li>Human-AI Interaction</li>
-      <li>Sociotechnical Systems</li>
-    </ul>
+    <!-- Research Interests 항목을 div로 감싸기 -->
+    <div>
+      <span>Usable Privacy & Security</span>
+    </div>
+    <div>
+      <span>Human-AI Interaction</span>
+    </div>
+    <div>
+      <span>Sociotechnical Systems</span>
+    </div>
 
-    <h2>📚 Publications</h2>
+    <h2>Publications</h2>
 
     <div class="publication-item">
       <strong>FamilyScope: Visualizing Affective Aspects of Family Social Interactions using Passive Sensor Data</strong><br>
@@ -67,7 +72,7 @@ title: "Hyunsoo Lee"
     <div class="publication-item">
       <strong>Dynamic Consent for Sensor-Driven Research</strong><br>
       <span class="publication-authors"><strong>Hyunsoo Lee</strong>, Uichin Lee</span><br>
-      <span class="publication-venue">International Conference on Mobile Computing and Ubiquitous Networking. (Tokyo, Japan, Nov 17-19, 2021), ICMU'21</span><br>
+      <span class="publication-venue">International Conference on Mobile Computing and Ubiquitous Networking (Tokyo, Japan, Nov 17-19, 2021), ICMU'21</span><br>
       <a href="link_to_pdf_3.pdf">PDF</a>
     </div>
 
