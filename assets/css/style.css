@@ -68,31 +68,23 @@ body {
 }
 
 .cv-box {
-  display: inline-flex;
+  width: 28px;
+  height: 28px;
+  background-color: #002F6C;
+  color: #ffffff;
+  font-size: 0.6rem;
+  font-weight: 600;
+  display: flex;
   align-items: center;
   justify-content: center;
-  width: 27px; /* 약간 줄임 */
-  height: 27px; /* 약간 줄임 */
-  background-color: #002F6C; /* 남색 배경 */
-  color: #ffffff; /* 흰색 글씨 */
-  font-size: 0.62rem; /* 미세 조절 */
-  font-weight: 600;
-  border-radius: 6px; /* 살짝 둥글게 */
+  border-radius: 6px;
   text-decoration: none;
-  vertical-align: middle;
   transition: background-color 0.3s ease, transform 0.2s ease;
-  margin-left: 6px;
-  line-height: 1;
   padding: 0;
-  border: none;
+  line-height: 1;
   box-sizing: border-box;
   position: relative;
-  top: 0.2px; /* 데스크탑에서 미세 위치 조절 */
-}
-
-.cv-box:hover {
-  background-color: #0055A4;
-  transform: translateY(-1px);
+  top: 1px; /* 미세 정렬용. 안 맞으면 -1px ~ 2px 사이로 조절 */
 }
 
 /* 본문 영역 */
@@ -180,25 +172,24 @@ h2#publications {
     height: 120px;
   }
 
-  .icon-links {
-    flex-direction: row;
-    justify-content: center;
-  }
-
  .icon-links a {
-    font-size: 1.6rem; /* 모바일에서도 아이콘 크기 조금 키움 */
-    position: relative;
-    top: 0.3px; /* 아이콘 살짝 올려서 텍스트랑 맞추기 */
+    font-size: 1.6rem;
+    display: flex;
+    align-items: center;
   }
 
   .cv-box {
-    width: 28px;    /* 박스 크기 키워서 글자 안 짤리게 */
+    width: 28px;
     height: 28px;
-    font-size: 0.7rem;  /* 글자 크기 살짝 키움 */
+    font-size: 0.7rem;
+    font-weight: 600;
+    display: flex;
+    align-items: center;
+    justify-content: center;
     position: relative;
-    top: 0.3px;     /* 박스도 아이콘이랑 수직 맞추기 */
+    top: 0px; /* 아이콘들과 라인 맞추기 위해 조절 가능 */
+    line-height: 1;
+    padding: 0;
   }
-  .main-content {
-    padding-left: 0;
   }
 }
