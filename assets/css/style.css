@@ -46,7 +46,7 @@ body {
 .icon-links {
   margin-top: 15px;
   display: flex;
-  align-items: center; /* 수직 중앙 정렬 핵심 */
+  align-items: center;
   justify-content: center;
   gap: 15px;
 }
@@ -57,6 +57,8 @@ body {
   justify-content: center;
   color: #002F6C;
   font-size: 1.6rem;
+  line-height: 1;
+  vertical-align: middle;
   transition: color 0.3s ease, transform 0.3s ease;
 }
 
@@ -69,8 +71,8 @@ body {
   display: inline-flex;
   align-items: center;
   justify-content: center;
-  width: 28px;
-  height: 28px;
+  width: 26px;
+  height: 26px;
   background-color: #002F6C;
   color: #ffffff;
   font-size: 0.6rem;
@@ -79,11 +81,19 @@ body {
   text-decoration: none;
   line-height: 1;
   padding: 0;
+  border: none;
   box-sizing: border-box;
-  vertical-align: middle;  /* 핵심! */
-  margin-top: 2px;         /* 아이콘과 정렬 맞추는 미세 조정 */
+  margin-left: 6px;
+  margin-top: 2px; /* 데스크탑 정렬 맞춤 */
+  vertical-align: middle;
+  position: relative;
+  top: 1px; /* 정밀 정렬 (조절 가능) */
 }
 
+.cv-box:hover {
+  background-color: #0055A4;
+  transform: translateY(-1px);
+}
 
 /* 본문 영역 */
 .main-content {
@@ -170,22 +180,24 @@ h2#publications {
     height: 120px;
   }
 
-  .icon-links {
+ .icon-links {
     flex-direction: row;
     justify-content: center;
-
   }
 
   .icon-links a {
     font-size: 1.4rem;
   }
-
+  
 .cv-box {
-    width: 26px;
-    height: 26px;
-    font-size: 0.6rem; /* 기존보다 살짝 키움 */
+    width: 24px;
+    height: 24px;
+    font-size: 0.55rem;
     margin-left: 4px;
+    margin-top: 2px; /* 모바일에서도 정렬 맞춤 */
+    top: 1px;
   }
+  
   .main-content {
     padding-left: 0;
   }
