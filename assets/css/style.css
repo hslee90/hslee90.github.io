@@ -182,12 +182,19 @@ h2#publications {
     font-size: 1.4rem;
   }
 
- .cv-box {
-    font-size: 0.65rem;
-    height: 20px;
-    padding: 3px 8px;
-  }
-  
+.cv-box {
+  height: 18px;
+  padding: 2px 8px;
+  font-size: 0.6rem;
+  border-radius: 999px;
+  line-height: 1;
+  font-weight: 600;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  vertical-align: middle;
+}
+
   .main-content {
     padding-left: 0;
   }
