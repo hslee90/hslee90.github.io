@@ -62,28 +62,27 @@ body {
   transform: scale(1.2);
 }
 
-/* CV 박스 스타일 */
 .icon-links a.cv-box {
   display: inline-flex;
   align-items: center;
   justify-content: center;
-  width: 36px;
-  height: 36px;
-  font-size: 0.75rem;
-  font-weight: bold;
-  background-color: #002F6C;
-  color: #ffffff;
-  border-radius: 6px;
-  line-height: 1;
+  width: 30px;
+  height: 30px;
+  background-color: #002F6C; /* 진한 남색 */
+  color: #ffffff; /* 흰색 글씨 */
+  font-size: 0.65rem; /* 작고 단정하게 */
+  font-weight: 600;
+  border-radius: 4px;
   text-decoration: none;
+  line-height: 1;
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.1);
   transition: background-color 0.3s ease, transform 0.2s ease;
   vertical-align: middle;
-  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.2);
   padding: 0;
 }
 
 .icon-links a.cv-box:hover {
-  background-color: #0055A4;
+  background-color: #0055A4; /* hover 시 밝은 남색 */
   transform: translateY(-1px);
 }
 
