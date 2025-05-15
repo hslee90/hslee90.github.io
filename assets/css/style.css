@@ -48,18 +48,28 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
-  gap: 15px;
+  gap: 14px;
+}
+
+.icon-links a,
+.cv-box {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 28px;
+  height: 28px;
+  border-radius: 6px;
+  font-size: 0.65rem;
+  font-weight: 600;
+  text-decoration: none;
+  box-sizing: border-box;
+  line-height: 1;
+  transition: all 0.3s ease;
 }
 
 .icon-links a {
-  display: inline-flex;
-  align-items: center;
-  justify-content: center;
   color: #002F6C;
-  font-size: 1.6rem;
-  line-height: 1;
-  vertical-align: middle;
-  transition: color 0.3s ease, transform 0.3s ease;
+  font-size: 1.6rem; /* 아이콘 크기 */
 }
 
 .icon-links a:hover {
@@ -68,32 +78,20 @@ body {
 }
 
 .cv-box {
-  display: inline-flex;
-  align-items: center;
-  justify-content: center;
-  width: 26px;
-  height: 26px;
   background-color: #002F6C;
   color: #ffffff;
-  font-size: 0.6rem;
-  font-weight: 600;
-  border-radius: 6px;
-  text-decoration: none;
-  line-height: 1;
-  padding: 0;
+  font-size: 0.65rem;
   border: none;
-  box-sizing: border-box;
-  margin-left: 6px;
-  margin-top: 2px; /* 데스크탑 정렬 맞춤 */
-  vertical-align: middle;
+  padding: 0;
   position: relative;
-  top: 1px; /* 정밀 정렬 (조절 가능) */
+  top: 0.5px; /* 아주 미세 정렬 */
 }
 
 .cv-box:hover {
   background-color: #0055A4;
   transform: translateY(-1px);
 }
+
 
 /* 본문 영역 */
 .main-content {
@@ -180,22 +178,21 @@ h2#publications {
     height: 120px;
   }
 
- .icon-links {
+.icon-links {
     flex-direction: row;
     justify-content: center;
+    gap: 12px;
   }
 
   .icon-links a {
     font-size: 1.4rem;
   }
-  
-.cv-box {
+
+  .cv-box {
     width: 24px;
     height: 24px;
     font-size: 0.55rem;
-    margin-left: 4px;
-    margin-top: 2px; /* 모바일에서도 정렬 맞춤 */
-    top: 1px;
+    top: 1px; /* 살짝 올림 */
   }
   
   .main-content {
