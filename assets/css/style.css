@@ -65,31 +65,25 @@ body {
   transform: scale(1.2);
 }
 
-cv-box {
+.cv-box {
   display: inline-flex;
   align-items: center;
   justify-content: center;
   width: 28px;
   height: 28px;
   background-color: #002F6C;
-  color: #ffffff !important;
+  color: #ffffff;
   font-size: 0.6rem;
   font-weight: 600;
-  font-family: 'Lato', sans-serif !important;
-  font-style: normal !important;
-  speak: none;
-  font-variant: normal;
-  text-rendering: auto;
   border-radius: 6px;
   text-decoration: none;
-  vertical-align: middle;
-  transition: background-color 0.3s ease, transform 0.2s ease;
-  margin-left: 6px;
-  line-height: 1.1;
+  line-height: 1;
   padding: 0;
-  border: none;
   box-sizing: border-box;
+  font-family: 'Lato', sans-serif;
+  font-style: normal;
 }
+
 
 /* 본문 영역 */
 .main-content {
@@ -186,19 +180,11 @@ h2#publications {
     font-size: 1.4rem;
   }
 
- .cv-box {
-  width: 24px;
-  height: 24px;
-  font-size: 0.5rem;
-  margin-left: 4px;
-  font-family: 'Lato', sans-serif !important;
-  font-style: normal !important;
-  speak: none;
-  font-variant: normal;
-  text-rendering: auto;
-  color: #ffffff !important;
-  line-height: 1.1;
-}
+.cv-box {
+    width: 24px;
+    height: 24px;
+    font-size: 0.5rem;
+  }
   .main-content {
     padding-left: 0;
   }
