@@ -46,12 +46,15 @@ body {
 .icon-links {
   margin-top: 15px;
   display: flex;
+  align-items: center; /* 수직 중앙 정렬 핵심 */
   justify-content: center;
   gap: 15px;
 }
 
 .icon-links a {
-  display: inline-block;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
   color: #002F6C;
   font-size: 1.6rem;
   transition: color 0.3s ease, transform 0.3s ease;
@@ -63,25 +66,26 @@ body {
 }
 
 .cv-box {
-  display: inline-flex;
-  align-items: center;
-  justify-content: center;
-  height: 28px; /* 아이콘 높이와 유사하게 */
-  padding: 0 10px;
-  background-color: #002F6C; /* 남색 */
-  color: #ffffff; /* 흰 글씨 */
+  background-color: #002F6C;
+  color: #fff; /* 흰 글자 */
+  padding: 4px 10px;
+  font-size: 0.7rem;
   border-radius: 6px;
-  font-size: 0.75rem;
   font-weight: 500;
   text-decoration: none;
   line-height: 1;
-  border: none;
-  margin-left: 8px;
+  height: 22px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
   transition: background-color 0.3s ease, transform 0.2s ease;
-  vertical-align: middle;
-  position: relative;
-  top: 2px; /* 살짝 내려서 정렬 맞춤 */
 }
+
+.cv-box:hover {
+  background-color: #0055A4;
+  transform: translateY(-1px);
+}
+
 
 /* 본문 영역 */
 .main-content {
@@ -169,22 +173,21 @@ h2#publications {
   }
 
   .icon-links {
-    justify-content: center;
     flex-direction: row;
+    justify-content: center;
+
   }
 
   .icon-links a {
     font-size: 1.4rem;
   }
 
- .cv-button {
-    height: 24px;
-    padding: 0 8px;
-    font-size: 0.7rem;
-    border-radius: 6px;
-    top: 1px; /* 모바일도 살짝 내려 정렬 보정 */
+ .cv-box {
+    font-size: 0.65rem;
+    height: 20px;
+    padding: 3px 8px;
   }
-
+  
   .main-content {
     padding-left: 0;
   }
