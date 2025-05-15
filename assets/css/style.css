@@ -59,7 +59,7 @@ body {
   font-size: 1.6rem;
   transition: color 0.3s ease, transform 0.3s ease;
   position: relative;
-  top: 1px; /* 아이콘 미세 조절 */
+  top: 0.8ㅁpx; /* 아이콘 미세 조절 */
 }
 
 .icon-links a:hover {
@@ -87,7 +87,7 @@ body {
   border: none;
   box-sizing: border-box;
   position: relative;
-  top: 0.5px; /* 데스크탑에서 미세 위치 조절 */
+  top: 0.2px; /* 데스크탑에서 미세 위치 조절 */
 }
 
 .cv-box:hover {
@@ -185,19 +185,19 @@ h2#publications {
     justify-content: center;
   }
 
-  .icon-links a {
-    font-size: 1.4rem;
-    top: 0; /* 모바일 아이콘 위치 맞춤 */
+ .icon-links a {
+    font-size: 1.6rem; /* 모바일에서도 아이콘 크기 조금 키움 */
+    position: relative;
+    top: 0.3px; /* 아이콘 살짝 올려서 텍스트랑 맞추기 */
   }
 
   .cv-box {
-    width: 24px;
-    height: 24px;
-    font-size: 0.65rem;
-    margin-left: 4px;
-    top: 1.2px; /* 모바일에서 더 올림 */
+    width: 28px;    /* 박스 크기 키워서 글자 안 짤리게 */
+    height: 28px;
+    font-size: 0.7rem;  /* 글자 크기 살짝 키움 */
+    position: relative;
+    top: 0.3px;     /* 박스도 아이콘이랑 수직 맞추기 */
   }
-  
   .main-content {
     padding-left: 0;
   }
