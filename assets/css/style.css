@@ -66,20 +66,22 @@ body {
 }
 
 .cv-box {
-  background-color: #002F6C;
-  color: #ffffff;
-  padding: 2px 10px;
-  font-size: 0.65rem;
-  font-weight: 600;
-  border-radius: 999px; /* pill 모양으로 */
-  text-decoration: none;
-  line-height: 1;
-  height: 20px;
   display: inline-flex;
   align-items: center;
   justify-content: center;
-  transition: background-color 0.3s ease, transform 0.2s ease;
+  width: 28px;
+  height: 28px;
+  background-color: #002F6C;
+  color: #ffffff;
+  font-size: 0.65rem;
+  font-weight: 600;
+  border-radius: 6px;
+  text-decoration: none;
   vertical-align: middle;
+  transition: background-color 0.3s ease, transform 0.2s ease;
+  margin-left: 6px;
+  line-height: 1;
+  padding: 0;
 }
 
 .cv-box:hover {
@@ -182,18 +184,12 @@ h2#publications {
     font-size: 1.4rem;
   }
 
-.cv-box {
-  height: 18px;
-  padding: 2px 8px;
-  font-size: 0.6rem;
-  border-radius: 999px;
-  line-height: 1;
-  font-weight: 600;
-  display: inline-flex;
-  align-items: center;
-  justify-content: center;
-  vertical-align: middle;
-}
+ .cv-box {
+    width: 24px;
+    height: 24px;
+    font-size: 0.6rem;
+    margin-left: 4px;
+  }
 
   .main-content {
     padding-left: 0;
