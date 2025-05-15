@@ -46,30 +46,20 @@ body {
 .icon-links {
   margin-top: 15px;
   display: flex;
-  align-items: center;
+  align-items: center; /* 수직 중앙 정렬 핵심 */
   justify-content: center;
-  gap: 14px;
-}
-
-.icon-links a,
-.cv-box {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  width: 28px;
-  height: 28px;
-  border-radius: 6px;
-  font-size: 0.65rem;
-  font-weight: 600;
-  text-decoration: none;
-  box-sizing: border-box;
-  line-height: 1;
-  transition: all 0.3s ease;
+  gap: 15px;
 }
 
 .icon-links a {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
   color: #002F6C;
-  font-size: 1.6rem; /* 아이콘 크기 */
+  font-size: 1.6rem;
+  transition: color 0.3s ease, transform 0.3s ease;
+  position: relative;
+  top: 1px; /* 아이콘 미세 조절 */
 }
 
 .icon-links a:hover {
@@ -78,20 +68,32 @@ body {
 }
 
 .cv-box {
-  background-color: #002F6C;
-  color: #ffffff;
-  font-size: 0.65rem;
-  border: none;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 27px; /* 약간 줄임 */
+  height: 27px; /* 약간 줄임 */
+  background-color: #002F6C; /* 남색 배경 */
+  color: #ffffff; /* 흰색 글씨 */
+  font-size: 0.62rem; /* 미세 조절 */
+  font-weight: 600;
+  border-radius: 6px; /* 살짝 둥글게 */
+  text-decoration: none;
+  vertical-align: middle;
+  transition: background-color 0.3s ease, transform 0.2s ease;
+  margin-left: 6px;
+  line-height: 1;
   padding: 0;
+  border: none;
+  box-sizing: border-box;
   position: relative;
-  top: 0.5px; /* 아주 미세 정렬 */
+  top: 0.5px; /* 데스크탑에서 미세 위치 조절 */
 }
 
 .cv-box:hover {
   background-color: #0055A4;
   transform: translateY(-1px);
 }
-
 
 /* 본문 영역 */
 .main-content {
@@ -178,21 +180,22 @@ h2#publications {
     height: 120px;
   }
 
-.icon-links {
+  .icon-links {
     flex-direction: row;
     justify-content: center;
-    gap: 12px;
   }
 
   .icon-links a {
     font-size: 1.4rem;
+    top: 0; /* 모바일 아이콘 위치 맞춤 */
   }
 
   .cv-box {
     width: 24px;
     height: 24px;
-    font-size: 0.55rem;
-    top: 1px; /* 살짝 올림 */
+    font-size: 0.65rem;
+    margin-left: 4px;
+    top: 1.2px; /* 모바일에서 더 올림 */
   }
   
   .main-content {
