@@ -56,13 +56,28 @@ title: "Hyunsoo Lee"
       <a href="link_to_pdf_3.pdf">PDF</a>
     </div>
 
-    <div class="publication-item">
+     <div class="publication-item">
       <strong>Understanding Perceived Benefits and Privacy Risks in Open Dataset Collection for Mobile Affective Computing</strong><br>
       <span class="publication-authors"><strong>Hyunsoo Lee</strong>, Soowon Kang, Uichin Lee</span><br>
       <span class="publication-venue">Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT/UbiComp)(Cambridge, UK, Sep 11-15, 2022), IMWUT'22</span><br>
       <a href="link_to_pdf_3.pdf">PDF</a>
     </div>
 
+    <div class="publication-item">
+      <strong>Smart Home IoT Technology and Privacy Research Trends</strong><br>
+      <span class="publication-authors">Youwon Shin, <strong>Hyunsoo Lee</strong>, Woohyeok Choi, Heepyung Kim, Yong Jeong, Uichin Lee</span><br>
+      <span class="publication-venue"> Korea Computer Congress, KCC'22</span><br>
+      <a href="link_to_pdf_3.pdf">PDF</a>
+    </div>
+
+   <div class="publication-item">
+      <strong>Pilot System Design Study for User-Friendly Mobile/Wearable Sensor Data Collection</strong><br>
+      <span class="publication-authors"> Jinhyuk Jang, <strong>Hyunsoo Lee</strong>, Uichin Lee</span><br>
+      <span class="publication-venue"> Korea Computer Congress, KCC'22</span><br>
+      <a href="link_to_pdf_3.pdf">PDF</a>
+    </div>
+
+    
     <div class="publication-item">
       <strong>Dynamic Consent for Sensor-Driven Research</strong><br>
       <span class="publication-authors"><strong>Hyunsoo Lee</strong>, Uichin Lee</span><br>
