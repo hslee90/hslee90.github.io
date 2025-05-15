@@ -1,218 +1,191 @@
-@import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap');
-
-/* 기본 스타일 리셋 */
-* {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-}
-
-/* 전체 폰트 및 색상 설정 */
+/* 전체 레이아웃 및 기본 스타일 */
 body {
-  font-family: 'Lato', sans-serif;
-  color: #000;
-  background-color: #fff;
-  line-height: 1.6;
-  font-size: 16px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   margin: 0;
-  padding: 0;
+  background-color: #f9f9f9;
+  color: #222;
 }
 
-/* 전체 레이아웃 래퍼 */
 .page-wrapper {
   display: flex;
-  flex-direction: row;
-  margin: 80px auto 40px;
-  padding: 0 40px;
-  align-items: flex-start;
-  max-width: 1000px;
+  max-width: 1200px;
+  margin: 20px auto;
+  background: white;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+  border-radius: 8px;
+  overflow: hidden;
 }
 
-/* 왼쪽 사이드바 */
+/* 사이드바 (왼쪽) */
 .sidebar {
-  width: 200px;
-  text-align: center;
+  width: 280px;
+  background-color: #222;
+  color: white;
+  padding: 30px 20px;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 20px;
 }
 
-/* 프로필 이미지 */
 .profile-img {
   width: 150px;
   height: 150px;
   border-radius: 50%;
-  margin-bottom: 15px;
+  object-fit: cover;
+  border: 3px solid #fff;
+  box-shadow: 0 0 10px rgba(255,255,255,0.3);
 }
 
-/* 아이콘 링크 */
+.profile-info {
+  text-align: center;
+}
+
+.profile-info h2 {
+  margin: 10px 0 5px 0;
+  font-size: 1.8rem;
+  font-weight: 700;
+}
+
+.profile-info p {
+  margin: 3px 0;
+  font-size: 1rem;
+  font-weight: 400;
+  opacity: 0.8;
+}
+
+/* 아이콘 링크 모음 */
 .icon-links {
-  margin-top: 15px;
   display: flex;
-  align-items: center; /* 수직 중앙 정렬 핵심 */
-  justify-content: center;
   gap: 15px;
+  margin-top: 15px;
 }
 
 .icon-links a {
-  display: inline-flex;
-  align-items: center;
-  justify-content: center;
-  color: #002F6C;
-  font-size: 1.6rem;
-  transition: color 0.3s ease, transform 0.3s ease;
-  position: relative;
-  top: 1px; /* 아이콘 미세 조절 (0.8px에서 1px로 변경) */
+  color: white;
+  font-size: 1.4rem;
+  text-decoration: none;
+  transition: color 0.3s ease;
 }
 
 .icon-links a:hover {
-  color: #0055A4;
-  transform: scale(1.2);
-}
-
-.icon-links a.google-scholar {
-  width: 28px;
-  height: 28px;
-  line-height: 28px;    /* 높이랑 똑같이 해서 수직 정렬 */
-  background-color: #002F6C;
-  color: #fff;
-  font-weight: 700;
-  font-size: 1.4rem;
-  border-radius: 6px;
-  text-decoration: none;
-  transition: background-color 0.3s ease, transform 0.2s ease;
-  margin-left: 6px;
-  user-select: none;
-  display: inline-flex;
-  align-items: center;
-  justify-content: center;
-  position: relative;
-  top: 0;              /* 여기 0으로 맞추기 */
+  color: #1da1f2; /* 트위터 색상 참고 */
 }
 
 .cv-box {
-  width: 28px;
-  height: 28px;
-  line-height: 28px;    /* 이거도 동일하게 */
-  background-color: #002F6C;
-  color: #ffffff;
-  font-size: 0.6rem;
+  background-color: #1da1f2;
+  color: white;
+  padding: 5px 12px;
+  border-radius: 4px;
   font-weight: 600;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  border-radius: 6px;
-  text-decoration: none;
-  transition: background-color 0.3s ease, transform 0.2s ease;
-  padding: 0;
-  box-sizing: border-box;
-  position: relative;
-  top: 0;              /* 0으로 딱 맞춤 */
+  font-size: 0.9rem;
 }
 
-
-/* 본문 영역 */
+/* 오른쪽 메인 컨텐츠 */
 .main-content {
-  flex: 1;
-  padding-left: 60px;
-  text-align: left;
+  flex-grow: 1;
+  padding: 30px 40px;
+  box-sizing: border-box;
+  overflow-y: auto;
 }
 
-/* 제목 스타일 */
-h1, h2, h3 {
-  color: #000;
-  font-weight: bold;
-  margin-bottom: 12px;
+.main-content p {
+  font-size: 1.1rem;
+  line-height: 1.6;
+  margin-bottom: 20px;
+  color: #333;
 }
 
-/* publication 등 본문 단락 간 간격 */
-p, ul, li {
-  margin-bottom: 12px;
+.main-content strong {
+  color: #111;
 }
 
-/* publication 목록 스타일 */
-ul {
-  padding-left: 20px;
+.main-content i {
+  color: #555;
 }
 
-/* 링크 스타일 */
-a {
-  color: #002F6C;
+/* Publications 섹션 */
+h2#publications {
+  margin-top: 40px;
+  font-size: 1.6rem;
+  border-bottom: 2px solid #1da1f2;
+  padding-bottom: 8px;
+  font-weight: 700;
+  color: #222;
+}
+
+.publication-item {
+  margin-bottom: 25px;
+  padding-bottom: 15px;
+  border-bottom: 1px solid #eee;
+}
+
+.publication-item strong {
+  font-size: 1.1rem;
+}
+
+.publication-authors {
+  font-size: 0.9rem;
+  color: #666;
+  display: block;
+  margin-top: 5px;
+}
+
+.publication-venue {
+  font-size: 0.85rem;
+  color: #999;
+  margin-top: 3px;
+  display: block;
+}
+
+.publication-item a {
+  margin-top: 5px;
+  display: inline-block;
+  font-size: 0.9rem;
+  color: #1da1f2;
   text-decoration: none;
 }
 
-a:hover {
+.publication-item a:hover {
   text-decoration: underline;
 }
 
-/* Research Interests와 그 하위 항목 간 간격 좁히기 */
-#research-interests + div > ul {
-  margin-top: 0.1rem !important;
-  padding-top: 0 !important;
+/* 스크롤바 스타일 (optional) */
+.main-content::-webkit-scrollbar {
+  width: 6px;
 }
 
-/* Research Interests 하위 항목과 Publications 간 간격 늘리기 */
-#research-interests + div > ul + h2 {
-  margin-top: 4rem !important;
+.main-content::-webkit-scrollbar-thumb {
+  background-color: rgba(29,161,242,0.4);
+  border-radius: 3px;
 }
 
-/* Publications과 하위 항목 간 간격 좁히기 */
-#publications + div > ul {
-  margin-top: 0.3rem !important;
-  padding-top: 0 !important;
-}
-
-/* Publications 바로 위 간격 조정 */
-h2#publications {
-  margin-top: 3rem !important;
-}
-
-/* 반응형 디자인: 모바일 */
-@media (max-width: 768px) {
-  body {
-    font-size: 14px;
-    padding: 10px;
-  }
-
-  h1, h2, h3 {
-    font-size: 1.5rem;
-  }
-
+/* 반응형 (너가 말한 모바일은 이미 괜찮다니까 데스크탑 중심) */
+@media (max-width: 900px) {
   .page-wrapper {
     flex-direction: column;
-    padding: 20px;
   }
 
   .sidebar {
     width: 100%;
-    margin-bottom: 20px;
+    flex-direction: row;
+    padding: 15px 20px;
+    justify-content: flex-start;
   }
 
   .profile-img {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 120px;
-    height: 120px;
+    width: 80px;
+    height: 80px;
+    border: 2px solid white;
   }
 
-  .icon-links a {
-    font-size: 1.6rem;
-    display: flex;
-    align-items: center;
+  .profile-info {
+    margin-left: 20px;
+    text-align: left;
   }
 
- .icon-links a.google-scholar {
-    width: 24px;
-    height: 24px;
-    line-height: 24px;
-    font-size: 1.1rem;
-    margin-left: 4px;
-    top: 0;
-  }
-  .cv-box {
-    width: 24px;
-    height: 24px;
-    line-height: 24px;
-    font-size: 0.7rem;
-    top: 0;
-    padding: 0;
+  .main-content {
+    padding: 20px;
   }
 }
