@@ -16,16 +16,14 @@ title: "Hyunsoo Lee"
       <p>KAIST School of Computing</p>
     </div>
 
-<!-- 이메일, 트위터, 구글스칼라, CV -->
-<div class="icon-links">
-  <a href="mailto:hslee90@kaist.ac.kr"><i class="fa-solid fa-envelope"></i></a>
-  <a href="https://twitter.com/hyunsoo820"><i class="fa-brands fa-twitter"></i></a>
-  <a href="https://scholar.google.com/citations?user=ctglUjoAAAAJ&hl=en" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Google_Scholar_logo.png" 
-         alt="Google Scholar" class="scholar-icon" />
-  </a>
-  <a href="/cv.pdf" target="_blank"><span class="cv-box">CV</span></a>
-</div>
+   <!-- 이메일, 트위터, 구글스칼라, CV -->
+    <div class="icon-links">
+      <a href="mailto:hslee90@kaist.ac.kr"><i class="fa-solid fa-envelope"></i></a>
+      <a href="https://twitter.com/hyunsoo820"><i class="fa-brands fa-twitter"></i></a>
+      <a href="https://scholar.google.com/citations?user=ctglUjoAAAAJ&hl=en"><i class="fa-brands fa-google"></i></a>
+      <a href="/cv.pdf" target="_blank"><span class="cv-box">CV</span></a>
+    </div>
+  </div> <!-- .sidebar 닫기 -->
 
 
   <!-- 오른쪽: 텍스트 내용 -->
