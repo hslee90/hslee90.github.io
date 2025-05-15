@@ -73,7 +73,7 @@ body {
   height: 28px;
   background-color: #002F6C;
   color: #ffffff !important; /* 강조 */
-  font-size: 0.35rem;
+  font-size: 0.2rem;
   font-weight: 600;
   border-radius: 6px;
   text-decoration: none;
@@ -185,7 +185,7 @@ h2#publications {
  .cv-box {
     width: 24px;
     height: 24px;
-    font-size: 0.4rem;
+    font-size: 0.3rem;
     line-height: 1.1; /* 이거 추가해줘야 함 */
     margin-left: 4px;
   }
