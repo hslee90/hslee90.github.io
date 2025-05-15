@@ -67,10 +67,10 @@ body {
   transform: scale(1.2);
 }
 
-/* 구글 스칼라 전용 아이콘 박스 */
 .icon-links a.google-scholar {
   width: 28px;
   height: 28px;
+  line-height: 28px;    /* 높이랑 똑같이 해서 수직 정렬 */
   background-color: #002F6C;
   color: #fff;
   font-weight: 700;
@@ -79,24 +79,18 @@ body {
   text-decoration: none;
   transition: background-color 0.3s ease, transform 0.2s ease;
   margin-left: 6px;
-  line-height: 1;
   user-select: none;
   display: inline-flex;
   align-items: center;
   justify-content: center;
   position: relative;
-  top: 1px; /* 아이콘들과 수직 맞추기 */
+  top: 0;              /* 여기 0으로 맞추기 */
 }
 
-.icon-links a.google-scholar:hover {
-  background-color: #0055A4;
-  transform: translateY(-1px);
-}
-
-/* CV 박스 */
 .cv-box {
   width: 28px;
   height: 28px;
+  line-height: 28px;    /* 이거도 동일하게 */
   background-color: #002F6C;
   color: #ffffff;
   font-size: 0.6rem;
@@ -108,11 +102,11 @@ body {
   text-decoration: none;
   transition: background-color 0.3s ease, transform 0.2s ease;
   padding: 0;
-  line-height: 1;
   box-sizing: border-box;
   position: relative;
-  top: 1px; /* 미세 정렬용 */
+  top: 0;              /* 0으로 딱 맞춤 */
 }
+
 
 /* 본문 영역 */
 .main-content {
@@ -205,25 +199,20 @@ h2#publications {
     align-items: center;
   }
 
-  .icon-links a.google-scholar {
+ .icon-links a.google-scholar {
     width: 24px;
     height: 24px;
+    line-height: 24px;
     font-size: 1.1rem;
     margin-left: 4px;
-    top: 0; /* 모바일에서 위치 조절 */
+    top: 0;
   }
-
   .cv-box {
-    width: 28px;
-    height: 28px;
+    width: 24px;
+    height: 24px;
+    line-height: 24px;
     font-size: 0.7rem;
-    font-weight: 600;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    position: relative;
-    top: 0; /* 아이콘들과 라인 맞추기 위해 조절 */
-    line-height: 1;
+    top: 0;
     padding: 0;
   }
 }
