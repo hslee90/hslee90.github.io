@@ -67,6 +67,29 @@ body {
   transform: scale(1.2);
 }
 
+.icon-links a.google-scholar {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 28px;
+  height: 28px;
+  background-color: #002F6C;
+  color: #fff;
+  font-weight: 700;
+  font-size: 1.4rem;
+  border-radius: 6px;
+  text-decoration: none;
+  transition: background-color 0.3s ease, transform 0.2s ease;
+  margin-left: 6px;
+  line-height: 1;
+  user-select: none;
+}
+
+.icon-links a.google-scholar:hover {
+  background-color: #0055A4;
+  transform: translateY(-1px);
+}
+
 .cv-box {
   width: 28px;
   height: 28px;
@@ -178,6 +201,12 @@ h2#publications {
     align-items: center;
   }
 
+  .icon-links a.google-scholar {
+    width: 24px;
+    height: 24px;
+    font-size: 1.1rem;
+    margin-left: 4px;
+  }
   .cv-box {
     width: 28px;
     height: 28px;
