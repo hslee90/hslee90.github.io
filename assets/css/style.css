@@ -62,6 +62,31 @@ body {
   transform: scale(1.2);
 }
 
+/* CV 박스 스타일 */
+.icon-links a.cv-box {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 36px;
+  height: 36px;
+  font-size: 0.75rem;
+  font-weight: bold;
+  background-color: #002F6C;
+  color: #ffffff;
+  border-radius: 6px;
+  line-height: 1;
+  text-decoration: none;
+  transition: background-color 0.3s ease, transform 0.2s ease;
+  vertical-align: middle;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.2);
+  padding: 0;
+}
+
+.icon-links a.cv-box:hover {
+  background-color: #0055A4;
+  transform: translateY(-1px);
+}
+
 /* 본문 영역 */
 .main-content {
   flex: 1;
@@ -118,32 +143,6 @@ h2#publications {
   margin-top: 3rem !important;
 }
 
-/* CV 버튼 스타일 (데스크탑 기본) */
-.cv-button {
-  display: inline-flex;
-  align-items: center;
-  justify-content: center;
-  height: 20px; /* 아이콘 높이에 맞추기 */
-  padding: 0 8px; /* 위아래는 0, 좌우만 간격 */
-  background-color: #002F6C; /* 남색 */
-  color: #ffffff; /* 흰색 글씨 */
-  border-radius: 10px; /* 살짝 둥글게 */
-  font-size: 0.7rem; /* 더 작고 얌전하게 */
-  font-weight: 500;
-  text-decoration: none; /* 언더라인 없애기 */
-  line-height: 1; /* 딱 맞게 */
-  border: none;
-  margin-left: 8px; /* 아이콘과 간격 */
-  transition: background-color 0.3s ease, transform 0.2s ease;
-  vertical-align: middle; /* 라인 정렬 정확하게 */
-}
-
-.cv-button:hover {
-  background-color: #0055A4; /* 밝은 남색 */
-  transform: translateY(-1px);
-}
-
-
 /* 반응형 디자인: 모바일 */
 @media (max-width: 768px) {
   body {
@@ -173,13 +172,6 @@ h2#publications {
     height: 120px;
   }
 
-.cv-button {
-    height: 18px;
-    padding: 0 6px;
-    font-size: 0.65rem;
-    border-radius: 8px;
-  }
-
   .icon-links {
     justify-content: center;
     flex-direction: row;
@@ -187,6 +179,13 @@ h2#publications {
 
   .icon-links a {
     font-size: 1.4rem;
+  }
+
+  .icon-links a.cv-box {
+    width: 32px;
+    height: 32px;
+    font-size: 0.7rem;
+    border-radius: 5px;
   }
 
   .main-content {
