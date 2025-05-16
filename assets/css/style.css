@@ -170,60 +170,21 @@ h2#publications {
   margin-top: 3rem !important;
 }
 
-/* 반응형 디자인: 모바일 */
 @media (max-width: 768px) {
-  body {
-    font-size: 14px;
-    padding: 10px;
-  }
-
-  h1, h2, h3 {
-    font-size: 1.5rem;
-  }
-
-  .page-wrapper {
-    flex-direction: column;
-    padding: 20px;
-  }
-
-  .sidebar {
-    width: 100%;
-    margin-bottom: 20px;
-  }
-
-  .profile-img {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 120px;
-    height: 120px;
-  }
-
-  .icon-links a {
-    font-size: 1.6rem;
-    display: flex;
-    align-items: center;
-  }
-
   .icon-links a.google-scholar {
     width: 24px;
     height: 24px;
+    line-height: 24px;
     font-size: 1.1rem;
     margin-left: 4px;
-    top: 0; /* 모바일에서 위치 조절 */
+    top: 0;
   }
-
   .cv-box {
-    width: 28px;
-    height: 28px;
+    width: 24px;
+    height: 24px;
+    line-height: 24px;
     font-size: 0.7rem;
-    font-weight: 600;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    position: relative;
-    top: 0; /* 아이콘들과 라인 맞추기 위해 조절 */
-    line-height: 1;
+    top: 0;
     padding: 0;
   }
 }
