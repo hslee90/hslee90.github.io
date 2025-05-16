@@ -51,6 +51,9 @@ title: "Home"
    <strong>Jun 2024</strong> Presented 'User-Friendly Privacy Design in Ubiquitous Computing' at KCC'24
    </div>
     <div class="news-item">
+   <strong>May 2024</strong> Presented 'PriviAware:Exploring Data Visualization and Dynamic Privacy Control Support for Data Collection in Mobile Sensing Research' at CHI'24 (Hawaii, USA) 
+   </div>
+    <div class="news-item">
    <strong>Apr 2024</strong> Gave a talk on 'Supporing User Data Privacy in Digital Healthcare Systems' at Yonsei University (Graduate School of Information Science) 
    </div>
   
