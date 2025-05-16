@@ -28,12 +28,14 @@ title: "Home"
 
 
   <!-- 오른쪽: 텍스트 내용 -->
-<div class="main-content">
-  <p>I'm a researcher in <strong>Human-Computer Interaction (HCI)</strong> and <strong>Usable Privacy & Security</strong>. My research explores how we can design interactive technologies that support privacy and user agency in data-rich environments.<br>
-  I conduct user-centered studies to understand the security and privacy (S&amp;P) needs of people engaging with technologies like mobile sensing, wearable devices, smart homes, and AI systems. Based on these insights, I design and build interactive systems that help users make sense of their data, manage what’s shared, and stay in control.</p>
+ <div class="main-content">
+  <p>I'm a researcher in <strong>Human-Computer Interaction (HCI)</strong> and <strong>Usable Privacy & Security</strong>. My research explores how we can design interactive technologies that support privacy and user agency in data-rich environments.</p>
+
+  <p>I conduct user-centered studies to understand the security and privacy needs of people engaging with technologies like mobile sensing, wearable devices, smart homes, and AI systems. Based on these insights, I design and build interactive systems that help users make sense of their data, manage what’s shared, and stay in control.</p>
 
   <p>Grounded in human-centered design, my work integrates <strong>usable privacy</strong>, <strong>ubiquitous computing</strong>, <strong>AI ethics</strong>, and <strong>data interaction</strong> to develop systems that promote responsible, user-driven engagement with technology.</p>
 </div>
+
 
 
 <h2 id="news">NEWS</h2>
