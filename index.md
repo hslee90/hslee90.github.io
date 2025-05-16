@@ -142,7 +142,7 @@ title: "Home"
     </div>
 
     <div class="publication-item">
-      <strong>Positive Computing for Digital Wellbeing,” In Designing for Digital Wellbeing: A Research & Practice Agenda</strong><br>
+      <strong>Positive Computing for Digital Wellbeing</strong><br>
       <span class="publication-authors">Uichin Lee, <strong>Hyunsoo Lee</strong>, Joonyoung Park</span><br>
       <span class="publication-venue">Designing for Digital Wellbeing: A Research & Practice Agenda (Glasgow, Scotland UK, May 4-9, 2019), CHI'19</span><br>
       <a href="assets/pdf/positive.pdf">PDF</a>
