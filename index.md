@@ -35,7 +35,7 @@ title: "Home"
 
    <h2 id="news">RECENT NEWS</h2>
    <div class="news-item">
-   <strong>Feb 2025</strong> Gave a talk 'An Empirical Study on LLM-Driven Privacy Attacks and Assessing Privacy Risks' (Multi-Modal AI Safety Benchmark Workshop, IEEE BigComp'25) <br>
+   <strong>Feb 2025</strong> I gave a talk on 'An Empirical Study on LLM-Driven Privacy Attacks and Assessing Privacy Risks' (Multi-Modal AI Safety Benchmark Workshop, IEEE BigComp'25) 
    <a href="https://drive.google.com/file/d/1AUVYTqllDpHN6iQ8BQFxD_omzMx-udne/view?usp=sharing">[video]</a>
    </div>
   
