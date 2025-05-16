@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Hyunsoo Lee"
+title: "Home"
 ---
 
 <div class="page-wrapper">
