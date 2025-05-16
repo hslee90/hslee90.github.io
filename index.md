@@ -33,6 +33,16 @@ title: "Home"
 
     <p>As sensing technologies and AI systems become increasingly embedded in everyday life—through mobile health apps, smart homes, and wearable devices—the need for transparent, user-centered designs is more urgent than ever. Users often lack awareness of how their data is processed or how decisions are made based on that data. My research aims to create ethical design solutions that enable users to interact with these systems in ways that protect their privacy, support their mental well-being, and foster autonomy. Grounded in human-centered design, my work integrates usable privacy, ubiquitous computing, AI ethics, and data interaction to develop systems that promote responsible, user-driven engagement with technology.</p>
 
+   <h2 id="news">RECENT NEWS</h2>
+   <div class="news-item">
+   <strong>Feb 2025</strong> Gave a talk 'An Empirical Study on LLM-Driven Privacy Attacks and Assessing Privacy Risks' (Multi-Modal AI Safety Benchmark Workshop, IEEE BigComp'25) <br>
+    <iframe src="https://drive.google.com/file/d/1AUVYTqllDpHN6iQ8BQFxD_omzMx-udne/view?usp=drive_link" 
+    width="640" height="360" allow="autoplay" frameborder="0"></iframe>
+   </div>
+  
+
+
+    
     <h2 id="publications">PUBLICATIONS</h2>
 
     <div class="publication-item">
