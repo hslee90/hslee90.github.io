@@ -82,7 +82,7 @@ title: "Hyunsoo Lee"
       <strong>Dynamic Consent for Sensor-Driven Research</strong><br>
       <span class="publication-authors"><strong>Hyunsoo Lee</strong>, Uichin Lee</span><br>
       <span class="publication-venue">International Conference on Mobile Computing and Ubiquitous Networking (Tokyo, Japan, Nov 17-19, 2021), ICMU'21</span><br>
-      <a href="assets/pdf/icmu.pdf">PDF</a>
+      <a href="assets/pdf/dynamic.pdf">PDF</a>
     </div>
 
     <div class="publication-item">
@@ -103,14 +103,14 @@ title: "Hyunsoo Lee"
       <strong>Privacy Concerns of Digital Phenotyping for Older Adults with Mental Health Issues</strong><br>
       <span class="publication-authors"><strong>Hyunsoo Lee</strong>, Uichin Lee</span><br>
       <span class="publication-venue">ACM CHI 2020 NETWORKED PRIVACY WORKSHOP (Hawaii, USA, April 25-30, 2020), CHI'20</span><br>
-      <a href="link_to_pdf_3.pdf">PDF</a>
+      <a href="assets/pdf/networked.pdf">PDF</a>
     </div>
 
     <div class="publication-item">
       <strong>LocknType: Lockout Task Intervention for Discouraging Smartphone App Use</strong><br>
       <span class="publication-authors">Jaejeung Kim, Joonyoung Park, <strong>Hyunsoo Lee</strong>, Minsam Ko, Uichin Lee</span><br>
       <span class="publication-venue">Proceedings of the ACM Conference on Human Factors in Computing Systems (Glasgow, Scotland UK, May 4-9, 2019), CHI'19</span><br>
-      <a href="assets/pdf/networked.pdf">PDF</a>
+      <a href="assets/pdf/lockntype.pdf">PDF</a>
     </div>
 
     <div class="publication-item">
