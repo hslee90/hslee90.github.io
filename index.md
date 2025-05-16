@@ -29,12 +29,12 @@ title: "Home"
 
   <!-- 오른쪽: 텍스트 내용 -->
 <div class="main-content">
-    <p>I'm a researcher in <strong>Human-Computer Interaction (HCI)</strong> and <strong>Usable Privacy & Security</strong>. My research aims to address issues in the current landscape of data-rich contexts (e.g., mobile/wearable devices, smarthome sensing, human-AI interaction): <br>
-      <i>How can we design user-centered systems that empower individuals to manage and reflect on their data, prioritizing privacy, mental well-being, and user control?</i></p>
+  <p>I'm a researcher in Human-Computer Interaction (HCI) and Usable Privacy & Security. My research explores how we can design interactive technologies that support privacy and user agency in data-rich environments.</p>
 
-    <p>As sensing technologies and AI systems become increasingly embedded in everyday life—through mobile health apps, smart homes, and wearable devices—the need for transparent, user-centered designs is more urgent than ever. Users often lack awareness of how their data is processed or how decisions are made based on that data. My research aims to create ethical design solutions that enable users to interact with these systems in ways that protect their privacy, support their mental well-being, and foster autonomy. Grounded in human-centered design, my work integrates usable privacy, ubiquitous computing, AI ethics, and data interaction to develop systems that promote responsible, user-driven engagement with technology.</p>
+  <p>I conduct user-centered studies to understand the security and privacy needs of people engaging with technologies like mobile sensing, wearable devices, smart homes, and AI systems. Based on these insights, I design and build interactive systems that help users make sense of their data, manage what’s shared, and stay in control.</p>
 
-
+  <p>Grounded in human-centered design, my work integrates usable privacy, ubiquitous computing, AI ethics, and data interaction to develop systems that promote responsible, user-driven engagement with technology.</p>
+</div>
 
 <h2 id="news">NEWS</h2>
 <div class="news-item">
