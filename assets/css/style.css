@@ -1,6 +1,9 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&display=swap');
+
 /* 전체 레이아웃 및 기본 스타일 */
 body {
-  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-family: 'Lato', sans-serif;
   margin: 0;
   background-color: #f9f9f9;
   color: #222;
@@ -70,7 +73,7 @@ body {
 }
 
 .icon-links a:hover {
-  color: #1da1f2;
+  color: #1da1f2; /* 트위터 색상 참고 */
 }
 
 .cv-box {
@@ -161,5 +164,31 @@ h2#publications {
   border-radius: 3px;
 }
 
-/* 반응형 - 786px 이하만 적용 */
-@media (max-w
+/* 반응형 (너가 말한 모바일은 이미 괜찮다니까 데스크탑 중심) */
+@media (max-width: 900px) {
+  .page-wrapper {
+    flex-direction: column;
+  }
+
+  .sidebar {
+    width: 100%;
+    flex-direction: row;
+    padding: 15px 20px;
+    justify-content: flex-start;
+  }
+
+  .profile-img {
+    width: 80px;
+    height: 80px;
+    border: 2px solid white;
+  }
+
+  .profile-info {
+    margin-left: 20px;
+    text-align: left;
+  }
+
+  .main-content {
+    padding: 20px;
+  }
+}
