@@ -48,7 +48,7 @@ title: "Home"
   <strong>Aug 2024</strong> Started an international research project with Oded Nov’s team at NYU on <i>OurData</i>—a new concept supporting multi-user data in smart home sensing contexts
 </div>
 <div class="news-item">
-  <strong>Jun 2024</strong> Presented 'User-Friendly Privacy Design in Ubiquitous Computing' at KCC'24
+  <strong>Jun 2024</strong> Gave a talk on 'User-Friendly Privacy Design in Ubiquitous Computing' at KCC'24 (Jeju island, South Korea)
 </div>
 <div class="news-item">
   <strong>May 2024</strong> Presented 'PriviAware: Exploring Data Visualization and Dynamic Privacy Control Support for Data Collection in Mobile Sensing Research' at CHI'24 (Hawaii, USA)
