@@ -33,7 +33,7 @@ title: "Home"
 
   <p>I conduct user-centered studies to understand the security and privacy needs of people engaging with technologies like mobile sensing, wearable devices, smart homes, and AI systems. Based on these insights, I design and build interactive systems that help users make sense of their data, manage what’s shared, and stay in control.</p>
 
-  <p>Grounded in human-centered design, my work integrates usable privacy, ubiquitous computing, AI ethics, and data interaction to develop systems that promote responsible, user-driven engagement with technology.  Read my <a href="assets/pdf/research statement.pdf" target="_blank">research statement</a> to learn more about my doctoral dissertation on developer support for privacy.</p>
+  <p>Grounded in human-centered design, my work integrates usable privacy, ubiquitous computing, AI ethics, and data interaction to develop systems that promote responsible, user-driven engagement with technology.  Read my <a href="assets/pdf/research statement.pdf" target="_blank">research statement</a> to learn more about my doctoral dissertation, work in progress and future research agenda.</p>
 
 <h2 id="news">NEWS</h2>
 <div class="news-item">
