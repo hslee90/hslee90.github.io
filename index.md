@@ -29,11 +29,19 @@ title: "Home"
 
   <!-- 오른쪽: 텍스트 내용 -->
 <div class="main-content">
-  <p>I'm a researcher in Human-Computer Interaction (HCI) and Usable Privacy & Security. My research explores how we can design interactive technologies that support privacy and user agency in data-rich environments.</p>
+  <p>I'm a researcher in Human-Computer Interaction (HCI) and Usable Privacy & Security. My research focuses on exploring the privacy, security, and data protection aspects of digital technologies and designing interactive technologies that support privacy and user agency in data-rich environments.</p>
 
   <p>I conduct user-centered studies to understand the security and privacy needs of people engaging with technologies like mobile sensing, wearable devices, smart homes, and AI systems. Based on these insights, I design and build interactive systems that help users make sense of their data, manage what’s shared, and stay in control.</p>
 
   <p>Grounded in human-centered design, my work integrates usable privacy, ubiquitous computing, AI ethics, and data interaction to develop systems that promote responsible, user-driven engagement with technology.  Read my <a href="assets/pdf/research statement.pdf" target="_blank">research statement</a> to learn more about my doctoral dissertation, work in progress and future research agenda.</p>
+
+<p>My research directions and interests (not exhaustive) include:</p>
+<ul>
+  <li>Exploring and improving the UX of privacy and security in AI-powered technologies (e.g., LLMs, smart assistants)</li>
+  <li>Understanding and designing for the privacy and security of sensing technologies in the wild (e.g., smart homes, IoT)</li>
+  <li>Exploring innovative means to understand and improve user privacy and security in the context of digital healthcare</li>
+  <li>Designing for the privacy and security needs of marginalized groups (e.g., older adults, children)</li>
+</ul>
 
 <h2 id="news">NEWS</h2>
 <div class="news-item">
