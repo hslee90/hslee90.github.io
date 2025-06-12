@@ -46,7 +46,7 @@ title: "Home"
 <h2 id="news">NEWS</h2>
 <div class="news-item">
   <strong>Feb 2025</strong> Gave a talk on 'An Empirical Study on LLM-Driven Privacy Attacks and Assessing Privacy Risks' (Multi-Modal AI Safety Benchmark Workshop, IEEE BigComp'25) 
-  <a href="https://drive.google.com/file/d/1AUVYTqllDpHN6iQ8BQFxD_omzMx-udne/view?usp=sharing">[video]</a>
+  <a href="https://drive.google.com/file/d/1AUVYTqllDpHN6iQ8BQFxD_omzMx-udne/view?usp=sharing">[Video]</a>
 </div>
 <div class="news-item">
   <strong>Nov 2024</strong> Presented 'FamilyScope: Visualizing Affective Aspects of Family Social Interactions using Passive Sensor Data' at CSCW'24 (San José, Costa Rica) 
