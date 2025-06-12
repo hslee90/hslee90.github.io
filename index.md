@@ -49,7 +49,8 @@ title: "Home"
   <a href="https://drive.google.com/file/d/1AUVYTqllDpHN6iQ8BQFxD_omzMx-udne/view?usp=sharing">[video]</a>
 </div>
 <div class="news-item">
-  <strong>Nov 2024</strong> Presented 'FamilyScope: Visualizing Affective Aspects of Family Social Interactions using Passive Sensor Data' at CSCW'24 (San José, Costa Rica)
+  <strong>Nov 2024</strong> Presented 'FamilyScope: Visualizing Affective Aspects of Family Social Interactions using Passive Sensor Data' at CSCW'24 (San José, Costa Rica) 
+  <a href="assets/pdf/cscw24.pdf">PDF</a>
 </div>
 <div class="news-item">
   <strong>Oct 2024</strong> Joined the 'Multimodal Benchmark Dataset for AI Safety' project by TTA (Telecommunications Technology Association) and KAKAO
@@ -62,6 +63,7 @@ title: "Home"
 </div>
 <div class="news-item">
   <strong>May 2024</strong> Presented 'PriviAware: Exploring Data Visualization and Dynamic Privacy Control Support for Data Collection in Mobile Sensing Research' at CHI'24 (Hawaii, USA)
+  <a href="assets/pdf/chi24.pdf">PDF</a>
 </div>
 <div class="news-item">
   <strong>Apr 2024</strong> Gave a talk on 'Supporting User Data Privacy in Digital Healthcare Systems' at Yonsei University (Graduate School of Information Science)
