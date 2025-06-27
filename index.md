@@ -45,6 +45,9 @@ title: "Home"
 
 <h2 id="news">NEWS</h2>
 <div class="news-item">
+  <strong>Jun 2025</strong> I served as 2025 UbiComp/ISWC Poster/Demo Track committee member
+</div>
+<div class="news-item">
   <strong>Feb 2025</strong> Gave a talk on 'An Empirical Study on LLM-Driven Privacy Attacks and Assessing Privacy Risks' (Multi-Modal AI Safety Benchmark Workshop, IEEE BigComp'25) 
   <a href="https://drive.google.com/file/d/1AUVYTqllDpHN6iQ8BQFxD_omzMx-udne/view?usp=sharing">[Video]</a>
 </div>
