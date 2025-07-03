@@ -63,7 +63,7 @@ title: "Home"
   <strong>Oct 2024</strong> Joined the 'Multimodal Benchmark Dataset for AI Safety' project by TTA (Telecommunications Technology Association) and KAKAO
 </div>
 <div class="news-item">
-  <strong>Aug 2024</strong> Started an international research project with Oded Nov’s team at NYU on <i>OurData</i>—a new concept supporting multi-user data in smart home sensing contexts
+  <strong>Aug 2024</strong> Started research project with Oded Nov’s team at NYU on <i>OurData</i>—a new concept supporting multi-user data in smart home sensing contexts
 </div>
 <div class="news-item">
   <strong>Jun 2024</strong> Gave a talk on 'User-Friendly Privacy Design in Ubiquitous Computing' at KCC'24 (Jeju island, South Korea)
