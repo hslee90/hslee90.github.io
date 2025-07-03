@@ -45,6 +45,10 @@ title: "Home"
 
 <h2 id="news">NEWS</h2>
 <div class="news-item">
+  <strong>Jul 2025</strong> Gave a talk at KCC 2025 (Early-Career Researcher Session)
+    <a href="assets/pdf/kcc2025.pdf">[Slide]</a>
+</div>
+<div class="news-item">
   <strong>Jun 2025</strong> Served as 2025 UbiComp/ISWC Poster/Demo Track committee member
 </div>
 <div class="news-item">
