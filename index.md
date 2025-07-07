@@ -45,6 +45,9 @@ title: "Home"
 
 <h2 id="news">NEWS</h2>
 <div class="news-item">
+  <strong>Jul 2025</strong> My first Ph.D. mentee, Youngji Koh’s paper "Harnessing Home IoT for Self-Tracking Emotional Wellbeing" is accepted for publication in IMWUT (UbiComp) 2025!!
+</div>
+<div class="news-item">
   <strong>Jul 2025</strong> Gave a talk at KCC 2025 (Early-Career Researcher Session)
     <a href="assets/pdf/kcc2025.pdf">[Slide]</a>
 </div>
