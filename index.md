@@ -22,7 +22,7 @@ title: "Home"
       <a href="https://twitter.com/hyunsoo820"><i class="fa-brands fa-twitter"></i></a>
       <a href="https://scholar.google.com/citations?user=ctglUjoAAAAJ&hl=en" target="_blank" class="google-scholar-icon">
       <i class="fa-solid fa-graduation-cap"></i> </a>      
-      <a href="assets/cv/CV(Hyunsoo Lee_250709).pdf" target="_blank"><span class="cv-box">CV</span></a>
+      <a href="assets/cv/CV(Hyunsoo Lee_250817).pdf" target="_blank"><span class="cv-box">CV</span></a>
     </div>
   </div> <!-- .sidebar 닫기 -->
 
