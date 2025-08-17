@@ -12,7 +12,7 @@ title: "Home"
     <!-- 이름, 직함, 소속 -->
     <div class="profile-info">
       <h2>Hyunsoo Lee</h2>
-      <p>Research Professor</p>
+      <p>Research Assistant Professor</p>
       <p>KAIST School of Computing</p>
     </div>
 
