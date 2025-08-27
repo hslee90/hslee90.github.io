@@ -46,7 +46,7 @@ title: "Home"
 <h2 id="news">NEWS</h2>
 
 <div class="news-item">
-  <strong>Sep 2025</strong> In Fall 2025, I’ll be teaching 'CS492: Usable Security & Privacy' at KAIST School of Computing.
+  <strong>Sep 2025</strong> In Fall 2025, I’ll be teaching 'CS492: Usable Security & Privacy' at KAIST School of Computing
 </div>
 <div class="news-item">
   <strong>Jul 2025</strong> My first Ph.D. mentee, Youngji Koh’s paper "Harnessing Home IoT for Self-Tracking Emotional Wellbeing: Behavioral Patterns, Self-Reflection, and Privacy Concerns" is accepted for publication in IMWUT (UbiComp) 2025!! 
