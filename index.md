@@ -44,6 +44,7 @@ title: "Home"
 </ul>
 
 <h2 id="news">NEWS</h2>
+
 <div class="news-item">
   <strong>Sep 2025</strong> In Fall 2025, I’ll be teaching 'CS492: Usable Security & Privacy' at KAIST School of Computing.
 </div>
@@ -62,26 +63,33 @@ title: "Home"
   <strong>Feb 2025</strong> Gave a talk on 'An Empirical Study on LLM-Driven Privacy Attacks and Assessing Privacy Risks' (Multi-Modal AI Safety Benchmark Workshop, IEEE BigComp'25) 
   <a href="https://drive.google.com/file/d/1AUVYTqllDpHN6iQ8BQFxD_omzMx-udne/view?usp=sharing">[Video]</a>
 </div>
-<div class="news-item">
-  <strong>Nov 2024</strong> Presented 'FamilyScope: Visualizing Affective Aspects of Family Social Interactions using Passive Sensor Data' at CSCW'24 (San José, Costa Rica) 
-  <a href="assets/pdf/cscw24.pdf">[Slide]</a>
-</div>
-<div class="news-item">
-  <strong>Oct 2024</strong> Joined the 'Multimodal Benchmark Dataset for AI Safety' project by TTA (Telecommunications Technology Association) and KAKAO
-</div>
-<div class="news-item">
-  <strong>Aug 2024</strong> Started research project with Oded Nov’s team at NYU on <i>OurData</i>—a new concept supporting multi-user data in smart home sensing contexts
-</div>
-<div class="news-item">
-  <strong>Jun 2024</strong> Gave a talk on 'User-Friendly Privacy Design in Ubiquitous Computing' at KCC'24 (Jeju island, South Korea)
-</div>
-<div class="news-item">
-  <strong>May 2024</strong> Presented 'PriviAware: Exploring Data Visualization and Dynamic Privacy Control Support for Data Collection in Mobile Sensing Research' at CHI'24 (Hawaii, USA)
-  <a href="assets/pdf/chi24.pdf">[Slide]</a>
-</div>
-<div class="news-item">
-  <strong>Apr 2024</strong> Gave a talk on 'Supporting User Data Privacy in Digital Healthcare Systems' at Yonsei University (Graduate School of Information Science)
-</div>
+
+<!-- 이전 연도 뉴스는 접기 -->
+<details>
+  <summary>📂 News from 2024</summary>
+
+  <div class="news-item">
+    <strong>Nov 2024</strong> Presented 'FamilyScope: Visualizing Affective Aspects of Family Social Interactions using Passive Sensor Data' at CSCW'24 (San José, Costa Rica) 
+    <a href="assets/pdf/cscw24.pdf">[Slide]</a>
+  </div>
+  <div class="news-item">
+    <strong>Oct 2024</strong> Joined the 'Multimodal Benchmark Dataset for AI Safety' project by TTA (Telecommunications Technology Association) and KAKAO
+  </div>
+  <div class="news-item">
+    <strong>Aug 2024</strong> Started research project with Oded Nov’s team at NYU on <i>OurData</i>—a new concept supporting multi-user data in smart home sensing contexts
+  </div>
+  <div class="news-item">
+    <strong>Jun 2024</strong> Gave a talk on 'User-Friendly Privacy Design in Ubiquitous Computing' at KCC'24 (Jeju island, South Korea)
+  </div>
+  <div class="news-item">
+    <strong>May 2024</strong> Presented 'PriviAware: Exploring Data Visualization and Dynamic Privacy Control Support for Data Collection in Mobile Sensing Research' at CHI'24 (Hawaii, USA)
+    <a href="assets/pdf/chi24.pdf">[Slide]</a>
+  </div>
+  <div class="news-item">
+    <strong>Apr 2024</strong> Gave a talk on 'Supporting User Data Privacy in Digital Healthcare Systems' at Yonsei University (Graduate School of Information Science)
+  </div>
+</details>
+
 
   
     
