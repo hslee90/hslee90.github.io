@@ -95,9 +95,12 @@ title: "Home"
       <strong>Harnessing Home IoT for Self-tracking Emotional Wellbeing: Behavioral Patterns, Self-Reflection, and Privacy Concerns</strong><br>
       <span class="publication-authors">Youngji Koh, Chanhee Lee, Eunki Joung, <strong>Hyunsoo Lee*</strong>,Uichin Lee</span><br>
       <small>*Corresponding author</small>
-      <span class="publication-venue">In the Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies(IMWUT) (Espoo, Finland, Oct 14-16, 2025).           UbiComp’25</span><br>
+      <span class="publication-venue"> In the Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT) (Espoo, Finland, Oct 14-16, 2025). 
+      UbiComp’25</span><br>
       <a href="assets/pdf/pensieve.pdf">PDF</a>
     </div>
+
+    
     <div class="publication-item">
       <strong>FamilyScope: Visualizing Affective Aspects of Family Social Interactions using Passive Sensor Data</strong><br>
       <span class="publication-authors"><strong>Hyunsoo Lee</strong>, Yugyeong Jung, Youwon Shin, Hyesoo Park, Woohyeok Choi, Uichin Lee</span><br>
