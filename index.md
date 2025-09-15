@@ -46,7 +46,7 @@ title: "Home"
 <h2 id="news">NEWS</h2>
 
 <div class="news-item">
-  <strong>Sep 2025</strong> In Fall 2025, I’ll be teaching <strong>'CS492: Usable Security & Privacy'</strong>strong> at KAIST School of Computing
+  <strong>Sep 2025</strong> In Fall 2025, I’ll be teaching <strong>'CS492: Usable Security & Privacy'</strong> at KAIST School of Computing
 </div>
 <div class="news-item">
   <strong>Sep 2025</strong> Joined the national PoC project on 'Collaborative Intelligence Physical AI,' led by KAIST with academic and regional partners
