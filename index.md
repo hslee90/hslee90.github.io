@@ -13,7 +13,8 @@ title: "Home"
     <div class="profile-info">
       <h2>Hyunsoo Lee</h2>
       <p>Research Assistant Professor</p>
-      <p>KAIST School of Computing/Graduate School of Information Security</p>
+      <p>KAIST School of Computing</p>
+      <p>KAIST Graduate School of Information Security</p>
     </div>
 
    <!-- 이메일, 트위터, 구글스칼라, CV -->
