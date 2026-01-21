@@ -45,7 +45,14 @@ title: "Home"
 
 <h2 id="news">NEWS</h2>
 
-<div class="news-item">
+<div class="news-item"> 
+  <strong>Jan 2026</strong> Two papers have been accepted to CHI!
+</div>
+
+<!-- 이전 연도 뉴스는 접기 -->
+<details>
+  <summary>📂 News from 2025</summary
+<div class="news-item"> 
   <strong>Oct 2025</strong> Our research on using Home IoT for emotional wellbeing has been featured across multiple media outlets. <a href="https://www.mk.co.kr/news/it/11446938" target="_blank" rel="noopener noreferrer">[link]</a>
 </div>
 <div class="news-item">
