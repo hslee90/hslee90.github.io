@@ -44,7 +44,6 @@ title: "Home"
 </ul>
 
 <h2 id="news">NEWS</h2>
-
 <div class="news-item"> 
   <strong>Jan 2026</strong> Two papers have been accepted to CHI!!
 </div>
@@ -75,11 +74,11 @@ title: "Home"
   <strong>Feb 2025</strong> Gave a talk on 'An Empirical Study on LLM-Driven Privacy Attacks and Assessing Privacy Risks' (Multi-Modal AI Safety Benchmark Workshop, IEEE BigComp'25) 
   <a href="https://drive.google.com/file/d/1AUVYTqllDpHN6iQ8BQFxD_omzMx-udne/view?usp=sharing">[Video]</a>
 </div>
+</details>
 
 <!-- 이전 연도 뉴스는 접기 -->
 <details>
   <summary>📂 News from 2024</summary>
-
   <div class="news-item">
     <strong>Nov 2024</strong> Presented 'FamilyScope: Visualizing Affective Aspects of Family Social Interactions using Passive Sensor Data' at CSCW'24 (San José, Costa Rica) 
     <a href="assets/pdf/cscw24.pdf">[Slide]</a>
@@ -111,7 +110,6 @@ title: "Home"
       <a href="assets/pdf/pensieve.pdf">PDF</a>
     </div>
 
-    
     <div class="publication-item">
       <strong>FamilyScope: Visualizing Affective Aspects of Family Social Interactions using Passive Sensor Data</strong><br>
       <span class="publication-authors"><strong>Hyunsoo Lee</strong>, Yugyeong Jung, Youwon Shin, Hyesoo Park, Woohyeok Choi, Uichin Lee</span><br>
