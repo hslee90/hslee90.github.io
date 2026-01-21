@@ -102,6 +102,28 @@ title: "Home"
 </details>
     
     <h2 id="publications">PUBLICATIONS</h2>
+    
+     <div class="publication-item">
+      <strong>Mind the SIM: Awareness and Mental Models in a South Korean Case Study</strong><br>
+      <span class="publication-authors"><strong>Hyunsoo Lee</strong>, Seyoung Jin, Hyoungshick Kim, Uichin Lee</span><br>
+      <span class="publication-venue"> Proceedings of the ACM Conference on Human Factors in Computing Systems (Barcelona, Spain, Apr 13-17, 2026), CHI'26</span><br>
+    </div>
+
+      <div class="publication-item">
+      <strong>Why stressed, Mom?: Exploring Family Reflection on Social and Emotional Sensor Data through Family Informatics</strong><br>
+      <span class="publication-authors"> Hyesoo Park, Sueun Jang, <strong>Hyunsoo Lee* (Corresponding author)</strong>, Gahee Kim, Uichin Lee</span><br>
+      <span class="publication-venue"> Proceedings of the ACM Conference on Human Factors in Computing Systems (Barcelona, Spain, Apr 13-17, 2026), CHI'26</span><br>
+    </div>
+
+     <div class="publication-item">
+      <strong>Harnessing Home IoT for Self-tracking Emotional Wellbeing: Behavioral Patterns, Self-Reflection, and Privacy Concerns</strong><br>
+      <span class="publication-authors">Youngji Koh, Chanhee Lee, Eunki Joung, <strong>Hyunsoo Lee* (Corresponding author)</strong>,Uichin Lee</span><br>
+      <span class="publication-venue"> In the Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT) (Espoo, Finland, Oct 14-16, 2025). 
+      UbiComp’25</span><br>
+      <a href="assets/pdf/pensieve.pdf">PDF</a>
+    </div>
+
+
     <div class="publication-item">
       <strong>Harnessing Home IoT for Self-tracking Emotional Wellbeing: Behavioral Patterns, Self-Reflection, and Privacy Concerns</strong><br>
       <span class="publication-authors">Youngji Koh, Chanhee Lee, Eunki Joung, <strong>Hyunsoo Lee* (Corresponding author)</strong>,Uichin Lee</span><br>
