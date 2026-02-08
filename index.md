@@ -29,19 +29,12 @@ title: "Home"
 
   <!-- 오른쪽: 텍스트 내용 -->
 <div class="main-content">
-  <p>I'm a researcher in Human-Computer Interaction (HCI) and Usable Privacy & Security. My research focuses on exploring the privacy, security, and data protection aspects of digital technologies and designing interactive technologies that support privacy and user agency in data-rich environments.</p>
+  <p>I am a researcher in Human Computer Interaction (HCI) and Usable Privacy and Security. My research investigates how people experience privacy, security, and data protection in everyday digital technologies, and how interactive systems can be designed to support user agency in data intensive environments.</p>
 
-  <p>I conduct user-centered studies to understand the security and privacy needs of people engaging with technologies like mobile sensing, wearable devices, smart homes, and AI systems. Based on these insights, I design and build interactive systems that help users make sense of their data, manage what’s shared, and stay in control.</p>
+  <p>I use user centered research methods to examine how people navigate privacy and security challenges when interacting with data driven and AI mediated systems. Building on empirical insights, I design and implement interactive systems that help users interpret complex data practices, make informed decisions about data sharing, and exercise meaningful control over their digital lives.</p>
 
-  <p>Grounded in human-centered design, my work integrates usable privacy, ubiquitous computing, AI ethics, and data interaction to develop systems that promote responsible, user-driven engagement with technology.  Read my <a href="assets/pdf/research statement.pdf" target="_blank">research statement</a> to learn more about my doctoral dissertation, work in progress and future research agenda.</p>
+  <p>Grounded in human-centered design, my work integrates usable privacy and security, AI ethics, and data interaction research. Through this work, I aim to develop design frameworks and interactive technologies that enable responsible, user driven engagement with emerging systems, particularly in contexts where data is continuously generated, shared, and interpreted across social and technical boundaries. Read my <a href="assets/pdf/research statement.pdf" target="_blank">research statement</a> to learn more about my doctoral dissertation, work in progress and future research agenda.</p>
 
-<p>My research directions and interests (not exhaustive) include:</p>
-<ul>
-  <li>Exploring and improving the UX of privacy and security in AI-powered technologies (e.g., LLMs, smart assistants)</li>
-  <li>Understanding and designing for the privacy and security of sensing technologies in the wild (e.g., smart homes, IoT)</li>
-  <li>Exploring innovative means to understand and improve user privacy and security in the context of digital healthcare</li>
-  <li>Designing for the privacy and security needs of marginalized groups (e.g., older adults, children)</li>
-</ul>
 
 <h2 id="news">NEWS</h2>
 <div class="news-item"> 
@@ -123,14 +116,6 @@ title: "Home"
       <a href="assets/pdf/pensieve.pdf">PDF</a>
     </div>
 
-
-    <div class="publication-item">
-      <strong>Harnessing Home IoT for Self-tracking Emotional Wellbeing: Behavioral Patterns, Self-Reflection, and Privacy Concerns</strong><br>
-      <span class="publication-authors">Youngji Koh, Chanhee Lee, Eunki Joung, <strong>Hyunsoo Lee* (Corresponding author)</strong>,Uichin Lee</span><br>
-      <span class="publication-venue"> In the Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT) (Espoo, Finland, Oct 14-16, 2025). 
-      UbiComp’25</span><br>
-      <a href="assets/pdf/pensieve.pdf">PDF</a>
-    </div>
 
     <div class="publication-item">
       <strong>FamilyScope: Visualizing Affective Aspects of Family Social Interactions using Passive Sensor Data</strong><br>
