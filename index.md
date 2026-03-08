@@ -36,7 +36,10 @@ title: "Home"
   <p>Grounded in human-centered design, my work integrates usable privacy and security, AI ethics, and data interaction research. Through this work, I aim to develop design frameworks and interactive technologies that enable responsible, user driven engagement with emerging systems, particularly in contexts where data is continuously generated, shared, and interpreted across social and technical boundaries. Read my <a href="assets/pdf/research statement.pdf" target="_blank">research statement</a> to learn more about my doctoral dissertation, work in progress and future research agenda.</p>
 
 
-<h2 id="news">NEWS</h2>
+<h2 id="news">ANNOUNCEMENTS</h2>
+<div class="news-item"> 
+  <strong>Mar 2026</strong> I'm teaching CS374: Introduction to HCI' at KAIST School of Computing (Spring 2026)
+</div>
 <div class="news-item"> 
   <strong>Jan 2026</strong> Two papers have been accepted to CHI!!
 </div>
