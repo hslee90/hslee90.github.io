@@ -38,7 +38,7 @@ title: "Home"
 
 <h2 id="news">ANNOUNCEMENTS</h2>
 <div class="news-item"> 
-  <strong>Apr 2026</strong> <i>OurData</i>, a work very dear to my heart and a concept for analyzing group privacy in multi-user sensing environments, has finally been submitted to IMWUT after three long years.
+  <strong>Apr 2026</strong> <i>OurData</i>, a work very dear to my heart and a concept for analyzing group privacy in multi-user sensing environments, has finally been submitted to IMWUT(UbiComp) after three long years.
 </div>
 <div class="news-item"> 
   <strong>Mar 2026</strong> I'm teaching <strong>'CS374: Introduction to HCI' </strong> at KAIST School of Computing (Spring 2026)
