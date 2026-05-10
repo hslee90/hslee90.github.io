@@ -112,14 +112,14 @@ title: "Home"
       <strong>Mind the SIM: Awareness and Mental Models in a South Korean Case Study</strong><br>
       <span class="publication-authors"><strong>Hyunsoo Lee</strong>, Seyoung Jin, Hyoungshick Kim, Uichin Lee</span><br>
       <span class="publication-venue"> Proceedings of the ACM Conference on Human Factors in Computing Systems (Barcelona, Spain, Apr 13-17, 2026), CHI'26</span><br>
-      <a href="assets/pdf/pensieve.pdf">PDF</a>
+      <a href="assets/pdf/mindthesim.pdf">PDF</a>
     </div>
 
       <div class="publication-item">
       <strong>Why stressed, Mom?: Exploring Family Reflection on Social and Emotional Sensor Data through Family Informatics</strong><br>
       <span class="publication-authors"> Hyesoo Park, Sueun Jang, <strong>Hyunsoo Lee* (Corresponding author)</strong>, Gahee Kim, Uichin Lee</span><br>
       <span class="publication-venue"> Proceedings of the ACM Conference on Human Factors in Computing Systems (Barcelona, Spain, Apr 13-17, 2026), CHI'26</span><br>
-      <a href="assets/pdf/pensieve.pdf">PDF</a>
+      <a href="assets/pdf/selad.pdf">PDF</a>
     </div>
 
      <div class="publication-item">
