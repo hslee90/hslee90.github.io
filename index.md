@@ -102,16 +102,24 @@ title: "Home"
     
     <h2 id="publications">PUBLICATIONS</h2>
     
+    <div class="publication-item">
+      <strong>OurData: Understanding Family Privacy in Sensor-Rich Homes</strong><br>
+      <span class="publication-authors"><strong>Hyunsoo Lee</strong>, Reza Ghaiumy Anaraky, Oded Nov, Uichin Lee</span><br>
+      <span class="publication-venue"> In the Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT) (Shanghai, China, Oct 10-14, 2026), IMWUT'26</span><br>
+    </div>
+    
      <div class="publication-item">
       <strong>Mind the SIM: Awareness and Mental Models in a South Korean Case Study</strong><br>
       <span class="publication-authors"><strong>Hyunsoo Lee</strong>, Seyoung Jin, Hyoungshick Kim, Uichin Lee</span><br>
       <span class="publication-venue"> Proceedings of the ACM Conference on Human Factors in Computing Systems (Barcelona, Spain, Apr 13-17, 2026), CHI'26</span><br>
+      <a href="assets/pdf/pensieve.pdf">PDF</a>
     </div>
 
       <div class="publication-item">
       <strong>Why stressed, Mom?: Exploring Family Reflection on Social and Emotional Sensor Data through Family Informatics</strong><br>
       <span class="publication-authors"> Hyesoo Park, Sueun Jang, <strong>Hyunsoo Lee* (Corresponding author)</strong>, Gahee Kim, Uichin Lee</span><br>
       <span class="publication-venue"> Proceedings of the ACM Conference on Human Factors in Computing Systems (Barcelona, Spain, Apr 13-17, 2026), CHI'26</span><br>
+      <a href="assets/pdf/pensieve.pdf">PDF</a>
     </div>
 
      <div class="publication-item">
