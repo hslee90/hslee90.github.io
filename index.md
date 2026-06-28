@@ -106,6 +106,7 @@ title: "Home"
       <strong>OurData: Understanding Family Privacy in Sensor-Rich Homes</strong><br>
       <span class="publication-authors"><strong>Hyunsoo Lee</strong>, Reza Ghaiumy Anaraky, Oded Nov, Uichin Lee</span><br>
       <span class="publication-venue"> In the Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT) (Shanghai, China, Oct 10-14, 2026), IMWUT'26</span><br>
+      <a href="assets/pdf/ourdata.pdf">PDF</a>
     </div>
     
      <div class="publication-item">
