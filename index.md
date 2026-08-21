@@ -29,11 +29,9 @@ title: "Home"
 
   <!-- 오른쪽: 텍스트 내용 -->
 <div class="main-content">
-  <p>I am a researcher in Human Computer Interaction (HCI) and Usable Privacy and Security. My research investigates how people experience privacy, security, and data protection in everyday digital technologies, and how interactive systems can be designed to support user agency in data intensive environments.</p>
-
-  <p>I use user centered research methods to examine how people navigate privacy and security challenges when interacting with data driven and AI mediated systems. Building on empirical insights, I design and implement interactive systems that help users interpret complex data practices, make informed decisions about data sharing, and exercise meaningful control over their digital lives.</p>
-
-  <p>Grounded in human-centered design, my work integrates usable privacy and security, AI ethics, and data interaction research. Through this work, I aim to develop design frameworks and interactive technologies that enable responsible, user driven engagement with emerging systems, particularly in contexts where data is continuously generated, shared, and interpreted across social and technical boundaries. Read my <a href="assets/pdf/research statement.pdf" target="_blank">research statement</a> to learn more about my doctoral dissertation, work in progress and future research agenda.</p>
+  <p> I am a researcher in <strong>Usable Privacy and Security</strong>, <strong>Human-Computer Interaction (HCI)</strong>, and <strong>AI Safety</strong>. My research examines how people experience privacy, security, and safety risks in data-driven and increasingly autonomous systems, with a focus on user agency and control.
+I use user-centered methods to study how users understand and respond to complex system behavior, and explore the design of interactive safeguards and human-centered safety guardrails that support informed decision-making and meaningful control.
+My broader goal is to advance human-centered privacy, security, and safety for emerging AI systems.</p>
 
 
 <h2 id="news">ANNOUNCEMENTS</h2>
