@@ -33,7 +33,7 @@ title: "Home"
 
 I am particularly interested in privacy and security challenges that emerge from gaps between <i>how systems behave and how users understand, expect, and control them</i>. Using user-centered research methods, I study how these gaps shape users’ privacy and security decisions, and how interactive design can better communicate system behavior, support user control, and reduce the burden placed on users to navigate complex technologies.
 
-More recently, my research has been expanding toward <strong>AI safety</strong>, including emerging risks such as AI-related psychosis and misalignment between user intent and AI behavior**, as well as human-centered approaches to safety guardrails and user control. Across these areas, my broader goal is to advance usable and human-centered approaches to privacy, security, and safety that help people remain active participants in digital systems rather than passive subjects of them.</p>
+More recently, my research has been expanding toward <strong>AI safety</strong>, including emerging risks such as AI-related psychosis and misalignment between user intent and AI behavior, as well as human-centered approaches to safety guardrails and user control. Across these areas, my broader goal is to advance usable and human-centered approaches to privacy, security, and safety that help people remain active participants in digital systems rather than passive subjects of them.</p>
 
 
 <h2 id="news">ANNOUNCEMENTS</h2>
