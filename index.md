@@ -49,7 +49,7 @@ My broader goal is to advance human-centered privacy, security, and safety for e
 </div>
 <!-- 이전 연도 뉴스는 접기 -->
 <details>
-  <summary>:open_file_folder: News from 2025</summary>
+  <summary>📂 News from 2025</summary>
 <div class="news-item">
   <strong>Oct 2025</strong> Our research on using Home IoT for emotional wellbeing has been featured across multiple media outlets. <a href="https://www.mk.co.kr/news/it/11446938" target="_blank" rel="noopener noreferrer">[link]</a>
 </div>
@@ -78,7 +78,7 @@ My broader goal is to advance human-centered privacy, security, and safety for e
 
 <!-- 이전 연도 뉴스는 접기 -->
 <details>
-  <summary>:open_file_folder: News from 2024</summary>
+  <summary>📂 News from 2024 </summary>
   <div class="news-item">
     <strong>Nov 2024</strong> Presented 'FamilyScope: Visualizing Affective Aspects of Family Social Interactions using Passive Sensor Data' at CSCW'24 (San José, Costa Rica)
     <a href="assets/pdf/cscw24.pdf">[Slide]</a>
