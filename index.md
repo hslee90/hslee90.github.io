@@ -29,9 +29,11 @@ title: "Home"
 
   <!-- 오른쪽: 텍스트 내용 -->
 <div class="main-content">
-  <p> I am a researcher in <strong>Usable Privacy and Security</strong>, <strong>Human-Computer Interaction (HCI)</strong>, and <strong>AI Safety</strong>. My research examines how people experience privacy, security, and safety risks in data-driven and increasingly autonomous systems, with a focus on user agency and control.
-I use user-centered methods to study how users understand and respond to complex system behavior, and explore the design of interactive safeguards and human-centered safety guardrails that support informed decision-making and meaningful control.
-My broader goal is to advance human-centered privacy, security, and safety for emerging AI systems.</p>
+  <p> I am a researcher in <strong>Usable Privacy and Security</strong>, <strong> Human-Computer Interaction (HCI)</strong>, and <strong> AI Safety </strong>. My work examines how people understand, experience, and respond to privacy and security risks in everyday digital systems, and how these systems can better support human agency, informed decision-making, and meaningful control.
+
+I am particularly interested in privacy and security challenges that emerge from gaps between <i>how systems behave and how users understand, expect, and control them</i>. Using user-centered research methods, I study how these gaps shape users’ privacy and security decisions, and how interactive design can better communicate system behavior, support user control, and reduce the burden placed on users to navigate complex technologies.
+
+More recently, my research has been expanding toward <strong>AI safety</strong>, including emerging risks such as AI-related psychosis and misalignment between user intent and AI behavior**, as well as human-centered approaches to safety guardrails and user control. Across these areas, my broader goal is to advance usable and human-centered approaches to privacy, security, and safety that help people remain active participants in digital systems rather than passive subjects of them.</p>
 
 
 <h2 id="news">ANNOUNCEMENTS</h2>
