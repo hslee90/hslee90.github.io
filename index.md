@@ -19,9 +19,6 @@ title: "Home"
   <a href="mailto:hslee90@kaist.ac.kr">
     <i class="fa-solid fa-envelope"></i>
   </a>
-  <a href="https://twitter.com/hyunsoo820" target="_blank">
-    <i class="fa-brands fa-twitter"></i>
-  </a>
   <a href="https://scholar.google.com/citations?user=ctglUjoAAAAJ&hl=en"
      target="_blank"
      class="google-scholar-icon">
