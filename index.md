@@ -9,22 +9,32 @@ title: "Home"
   <div class="sidebar">
     <img src="assets/img/profile.JPG" alt="Profile Image" class="profile-img">
 
-    <!-- 이름, 직함, 소속 -->
-    <div class="profile-info">
-      <h2>Hyunsoo Lee</h2>
-      <p>Research Assistant Professor</p>
-      <p>KAIST School of Computing and Graduate School of Information Security</p>
-    </div>
+   <!-- 이름 -->
+<div class="profile-info">
+  <h2>Hyunsoo Lee</h2>
+</div>
 
-   <!-- 이메일, 트위터, 구글스칼라, CV -->
-    <div class="icon-links">
-      <a href="mailto:hslee90@kaist.ac.kr"><i class="fa-solid fa-envelope"></i></a>
-      <a href="https://twitter.com/hyunsoo820"><i class="fa-brands fa-twitter"></i></a>
-      <a href="https://scholar.google.com/citations?user=ctglUjoAAAAJ&hl=en" target="_blank" class="google-scholar-icon">
-      <i class="fa-solid fa-graduation-cap"></i> </a>
-      <a href="assets/cv/CV(Hyunsoo Lee_260510).pdf" target="_blank"><span class="cv-box">CV</span></a>
-    </div>
-  </div> <!-- .sidebar 닫기 -->
+<!-- 이메일, 트위터, 구글 스칼라, 블로그, CV -->
+<div class="icon-links">
+  <a href="mailto:hslee90@kaist.ac.kr">
+    <i class="fa-solid fa-envelope"></i>
+  </a>
+  <a href="https://twitter.com/hyunsoo820" target="_blank">
+    <i class="fa-brands fa-twitter"></i>
+  </a>
+  <a href="https://scholar.google.com/citations?user=ctglUjoAAAAJ&hl=en"
+     target="_blank"
+     class="google-scholar-icon">
+    <i class="fa-solid fa-graduation-cap"></i>
+  </a>
+  <a href="https://medium.com/@hslee90" target="_blank">
+    <i class="fa-solid fa-pen-nib"></i>
+  </a>
+  <a href="assets/cv/CV(Hyunsoo Lee_260510).pdf" target="_blank">
+    <span class="cv-box">CV</span>
+  </a>
+</div>
+</div> <!-- .sidebar 닫기 -->
 
 
   <!-- 오른쪽: 텍스트 내용 -->
