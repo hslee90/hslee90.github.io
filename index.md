@@ -45,7 +45,8 @@ title: "Home"
 
 <h2 id="news">ANNOUNCEMENTS</h2>
 <div class="news-item">
-  <strong>Aug 2026</strong> I finally started <a href="https://medium.com/@hslee90" target="_blank" rel="noopener noreferrer">blog</a>! I’ll mostly ramble about usable security and privacy, with the occasional detour into whatever else I can’t stop thinking about.
+  <strong>Aug 2026</strong> My first blog post is up! (<a href="https://medium.com/@hslee90" class="blog-link" target="_blank" rel="noopener noreferrer">link</a>)
+ I’ll mostly ramble about usable security and privacy, with the occasional detour into whatever else I can’t stop thinking about.
 <div class="news-item">
 <div class="news-item">
   <strong>Aug 2026</strong> I'll be joining the Usable Privacy & Security Research Group at UC Berkeley EECS / ICSI as a Visiting Scholar, starting October 1, 2026
