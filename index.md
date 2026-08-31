@@ -49,7 +49,7 @@ title: "Home"
  I’ll mostly ramble about usable security and privacy, with the occasional detour into whatever else I can’t stop thinking about.
 <div class="news-item">
 <div class="news-item">
-  <strong>Aug 2026</strong> I'll be joining the Usable Privacy & Security Research Group at UC Berkeley EECS / ICSI as a Visiting Scholar, starting October 1, 2026
+  <strong>Aug 2026</strong> Starting October 1, 2026, I’ll be conducting independently funded research with the Usable Privacy & Security Research Group at UC Berkeley EECS / ICSI, advancing my work on human-centered AI safety and privacy.
 </div>
 <div class="news-item">
   <strong>Apr 2026</strong> <i>OurData</i>, a work very dear to my heart and a concept for analyzing group privacy in multi-user sensing environments, has finally been accepted to IMWUT(UbiComp) after three long years.
