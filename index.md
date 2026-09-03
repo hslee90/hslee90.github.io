@@ -13,7 +13,8 @@ title: "Home"
 <div class="profile-info">
   <h2>Hyunsoo Lee</h2>
   <div>Usable Privacy &amp; Security Researcher</div>
-  <div>Human-Centered AI Safety · Human–Computer Interaction</div>
+  <div>Human-Centered AI Safety</div>
+  <div>Human–Computer Interaction</div>
 </div>
 
 <!-- 이메일, 트위터, 구글 스칼라, 블로그, CV -->
