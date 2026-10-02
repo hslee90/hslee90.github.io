@@ -17,7 +17,7 @@ title: "Home"
 
 <!-- 이메일, 트위터, 구글 스칼라, 블로그, CV -->
 <div class="icon-links">
-  <a href="mailto:hslee90@kaist.ac.kr">
+  <a href="mailto:hs_lee@berkeley.edu">
     <i class="fa-solid fa-envelope"></i>
   </a>
   <a href="https://scholar.google.com/citations?user=ctglUjoAAAAJ&hl=en"
