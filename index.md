@@ -46,9 +46,17 @@ title: "Home"
 
 <h2 id="news">ANNOUNCEMENTS</h2>
 <div class="news-item">
+  <strong>Oct 2026</strong> I wrote a
+  <a href="https://medium.com/@hslee90/ourdata-when-personal-data-becomes-about-us-9808107927e6" class="blog-link" target="_blank" rel="noopener noreferrer">blog post</a>
+  introducing OurData, presented at UbiComp 2026 this October, on how families understand and negotiate personal and collective data in sensor-rich homes.
+</div>
+<div class="news-item">
+  <strong>Oct 2026</strong> I’ve joined UC Berkeley and EECS!
+</div>
+<div class="news-item">
   <strong>Aug 2026</strong> My first blog post is up! (<a href="https://medium.com/@hslee90" class="blog-link" target="_blank" rel="noopener noreferrer">link</a>)
  I’ll mostly ramble about usable security and privacy, with the occasional detour into whatever else I can’t stop thinking about.
-<div class="news-item">
+</div>
 <div class="news-item">
   <strong>Aug 2026</strong> Starting October 1, 2026, I’ll be conducting independently funded research with the Usable Privacy & Security Research Group at UC Berkeley EECS / ICSI, advancing my work on human-centered AI safety and privacy.
 </div>
