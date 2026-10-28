@@ -28,7 +28,7 @@ title: "Home"
   <a href="https://medium.com/@hslee90" target="_blank">
     <i class="fa-solid fa-pen-nib"></i>
   </a>
-  <a href="assets/cv/CV(Hyunsoo Lee_261028).pdf" target="_blank">
+  <a href="assets/cv/Hyunsoo Lee (CV_20261028).pdf" target="_blank">
     <span class="cv-box">CV</span>
   </a>
 </div>
